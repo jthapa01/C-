@@ -1,0 +1,11 @@
+C:\Users\New Laptop\source\repos\AboutGenerics\EnumInsideClass\bin\Debug\netcoreapp2.0\EnumInsideClass.deps.json
+C:\Users\New Laptop\source\repos\AboutGenerics\EnumInsideClass\bin\Debug\netcoreapp2.0\EnumInsideClass.runtimeconfig.json
+C:\Users\New Laptop\source\repos\AboutGenerics\EnumInsideClass\bin\Debug\netcoreapp2.0\EnumInsideClass.runtimeconfig.dev.json
+C:\Users\New Laptop\source\repos\AboutGenerics\EnumInsideClass\bin\Debug\netcoreapp2.0\EnumInsideClass.dll
+C:\Users\New Laptop\source\repos\AboutGenerics\EnumInsideClass\bin\Debug\netcoreapp2.0\EnumInsideClass.pdb
+C:\Users\New Laptop\source\repos\AboutGenerics\EnumInsideClass\obj\Debug\netcoreapp2.0\EnumInsideClass.csprojResolveAssemblyReference.cache
+C:\Users\New Laptop\source\repos\AboutGenerics\EnumInsideClass\obj\Debug\netcoreapp2.0\EnumInsideClass.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\AboutGenerics\EnumInsideClass\obj\Debug\netcoreapp2.0\EnumInsideClass.AssemblyInfoInputs.cache
+C:\Users\New Laptop\source\repos\AboutGenerics\EnumInsideClass\obj\Debug\netcoreapp2.0\EnumInsideClass.AssemblyInfo.cs
+C:\Users\New Laptop\source\repos\AboutGenerics\EnumInsideClass\obj\Debug\netcoreapp2.0\EnumInsideClass.dll
+C:\Users\New Laptop\source\repos\AboutGenerics\EnumInsideClass\obj\Debug\netcoreapp2.0\EnumInsideClass.pdb

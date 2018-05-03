@@ -1,0 +1,7 @@
+C:\Users\New Laptop\source\repos\AverageTenScores\AverageTenScores\bin\Debug\AverageTenScores.exe.config
+C:\Users\New Laptop\source\repos\AverageTenScores\AverageTenScores\bin\Debug\AverageTenScores.exe
+C:\Users\New Laptop\source\repos\AverageTenScores\AverageTenScores\bin\Debug\AverageTenScores.pdb
+C:\Users\New Laptop\source\repos\AverageTenScores\AverageTenScores\obj\Debug\AverageTenScores.csprojResolveAssemblyReference.cache
+C:\Users\New Laptop\source\repos\AverageTenScores\AverageTenScores\obj\Debug\AverageTenScores.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\AverageTenScores\AverageTenScores\obj\Debug\AverageTenScores.exe
+C:\Users\New Laptop\source\repos\AverageTenScores\AverageTenScores\obj\Debug\AverageTenScores.pdb

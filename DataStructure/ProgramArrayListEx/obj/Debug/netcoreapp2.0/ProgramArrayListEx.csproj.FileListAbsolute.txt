@@ -1,0 +1,11 @@
+C:\Users\New Laptop\source\repos\DataStructure\ProgramArrayListEx\bin\Debug\netcoreapp2.0\ProgramArrayListEx.deps.json
+C:\Users\New Laptop\source\repos\DataStructure\ProgramArrayListEx\bin\Debug\netcoreapp2.0\ProgramArrayListEx.runtimeconfig.json
+C:\Users\New Laptop\source\repos\DataStructure\ProgramArrayListEx\bin\Debug\netcoreapp2.0\ProgramArrayListEx.runtimeconfig.dev.json
+C:\Users\New Laptop\source\repos\DataStructure\ProgramArrayListEx\bin\Debug\netcoreapp2.0\ProgramArrayListEx.dll
+C:\Users\New Laptop\source\repos\DataStructure\ProgramArrayListEx\bin\Debug\netcoreapp2.0\ProgramArrayListEx.pdb
+C:\Users\New Laptop\source\repos\DataStructure\ProgramArrayListEx\obj\Debug\netcoreapp2.0\ProgramArrayListEx.csprojResolveAssemblyReference.cache
+C:\Users\New Laptop\source\repos\DataStructure\ProgramArrayListEx\obj\Debug\netcoreapp2.0\ProgramArrayListEx.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\DataStructure\ProgramArrayListEx\obj\Debug\netcoreapp2.0\ProgramArrayListEx.AssemblyInfoInputs.cache
+C:\Users\New Laptop\source\repos\DataStructure\ProgramArrayListEx\obj\Debug\netcoreapp2.0\ProgramArrayListEx.AssemblyInfo.cs
+C:\Users\New Laptop\source\repos\DataStructure\ProgramArrayListEx\obj\Debug\netcoreapp2.0\ProgramArrayListEx.dll
+C:\Users\New Laptop\source\repos\DataStructure\ProgramArrayListEx\obj\Debug\netcoreapp2.0\ProgramArrayListEx.pdb

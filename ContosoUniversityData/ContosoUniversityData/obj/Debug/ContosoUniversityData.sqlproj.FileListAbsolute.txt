@@ -1,0 +1,6 @@
+C:\Users\New Laptop\source\repos\ContosoUniversityData\ContosoUniversityData\bin\Debug\ContosoUniversityData.dacpac
+C:\Users\New Laptop\source\repos\ContosoUniversityData\ContosoUniversityData\bin\Debug\ContosoUniversityData.dll
+C:\Users\New Laptop\source\repos\ContosoUniversityData\ContosoUniversityData\bin\Debug\ContosoUniversityData.pdb
+C:\Users\New Laptop\source\repos\ContosoUniversityData\ContosoUniversityData\obj\Debug\ContosoUniversityData.sqlprojResolveAssemblyReference.cache
+C:\Users\New Laptop\source\repos\ContosoUniversityData\ContosoUniversityData\obj\Debug\ContosoUniversityData.dll
+C:\Users\New Laptop\source\repos\ContosoUniversityData\ContosoUniversityData\obj\Debug\ContosoUniversityData.pdb

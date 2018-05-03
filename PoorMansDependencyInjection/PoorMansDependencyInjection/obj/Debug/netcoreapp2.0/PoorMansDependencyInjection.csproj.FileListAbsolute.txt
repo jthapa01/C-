@@ -1,0 +1,11 @@
+C:\Users\New Laptop\source\repos\PoorMansDependencyInjection\PoorMansDependencyInjection\bin\Debug\netcoreapp2.0\PoorMansDependencyInjection.deps.json
+C:\Users\New Laptop\source\repos\PoorMansDependencyInjection\PoorMansDependencyInjection\bin\Debug\netcoreapp2.0\PoorMansDependencyInjection.runtimeconfig.json
+C:\Users\New Laptop\source\repos\PoorMansDependencyInjection\PoorMansDependencyInjection\bin\Debug\netcoreapp2.0\PoorMansDependencyInjection.runtimeconfig.dev.json
+C:\Users\New Laptop\source\repos\PoorMansDependencyInjection\PoorMansDependencyInjection\bin\Debug\netcoreapp2.0\PoorMansDependencyInjection.dll
+C:\Users\New Laptop\source\repos\PoorMansDependencyInjection\PoorMansDependencyInjection\bin\Debug\netcoreapp2.0\PoorMansDependencyInjection.pdb
+C:\Users\New Laptop\source\repos\PoorMansDependencyInjection\PoorMansDependencyInjection\obj\Debug\netcoreapp2.0\PoorMansDependencyInjection.csprojResolveAssemblyReference.cache
+C:\Users\New Laptop\source\repos\PoorMansDependencyInjection\PoorMansDependencyInjection\obj\Debug\netcoreapp2.0\PoorMansDependencyInjection.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\PoorMansDependencyInjection\PoorMansDependencyInjection\obj\Debug\netcoreapp2.0\PoorMansDependencyInjection.AssemblyInfoInputs.cache
+C:\Users\New Laptop\source\repos\PoorMansDependencyInjection\PoorMansDependencyInjection\obj\Debug\netcoreapp2.0\PoorMansDependencyInjection.AssemblyInfo.cs
+C:\Users\New Laptop\source\repos\PoorMansDependencyInjection\PoorMansDependencyInjection\obj\Debug\netcoreapp2.0\PoorMansDependencyInjection.dll
+C:\Users\New Laptop\source\repos\PoorMansDependencyInjection\PoorMansDependencyInjection\obj\Debug\netcoreapp2.0\PoorMansDependencyInjection.pdb

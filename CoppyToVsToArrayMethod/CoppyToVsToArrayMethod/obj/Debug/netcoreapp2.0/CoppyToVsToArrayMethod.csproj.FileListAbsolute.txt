@@ -1,0 +1,11 @@
+C:\Users\New Laptop\source\repos\CoppyToVsToArrayMethod\CoppyToVsToArrayMethod\bin\Debug\netcoreapp2.0\CoppyToVsToArrayMethod.deps.json
+C:\Users\New Laptop\source\repos\CoppyToVsToArrayMethod\CoppyToVsToArrayMethod\bin\Debug\netcoreapp2.0\CoppyToVsToArrayMethod.runtimeconfig.json
+C:\Users\New Laptop\source\repos\CoppyToVsToArrayMethod\CoppyToVsToArrayMethod\bin\Debug\netcoreapp2.0\CoppyToVsToArrayMethod.runtimeconfig.dev.json
+C:\Users\New Laptop\source\repos\CoppyToVsToArrayMethod\CoppyToVsToArrayMethod\bin\Debug\netcoreapp2.0\CoppyToVsToArrayMethod.dll
+C:\Users\New Laptop\source\repos\CoppyToVsToArrayMethod\CoppyToVsToArrayMethod\bin\Debug\netcoreapp2.0\CoppyToVsToArrayMethod.pdb
+C:\Users\New Laptop\source\repos\CoppyToVsToArrayMethod\CoppyToVsToArrayMethod\obj\Debug\netcoreapp2.0\CoppyToVsToArrayMethod.csprojResolveAssemblyReference.cache
+C:\Users\New Laptop\source\repos\CoppyToVsToArrayMethod\CoppyToVsToArrayMethod\obj\Debug\netcoreapp2.0\CoppyToVsToArrayMethod.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\CoppyToVsToArrayMethod\CoppyToVsToArrayMethod\obj\Debug\netcoreapp2.0\CoppyToVsToArrayMethod.AssemblyInfoInputs.cache
+C:\Users\New Laptop\source\repos\CoppyToVsToArrayMethod\CoppyToVsToArrayMethod\obj\Debug\netcoreapp2.0\CoppyToVsToArrayMethod.AssemblyInfo.cs
+C:\Users\New Laptop\source\repos\CoppyToVsToArrayMethod\CoppyToVsToArrayMethod\obj\Debug\netcoreapp2.0\CoppyToVsToArrayMethod.dll
+C:\Users\New Laptop\source\repos\CoppyToVsToArrayMethod\CoppyToVsToArrayMethod\obj\Debug\netcoreapp2.0\CoppyToVsToArrayMethod.pdb

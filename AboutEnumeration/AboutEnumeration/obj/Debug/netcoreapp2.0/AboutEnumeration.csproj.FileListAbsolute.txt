@@ -1,0 +1,11 @@
+C:\Users\New Laptop\source\repos\AboutEnumeration\AboutEnumeration\bin\Debug\netcoreapp2.0\AboutEnumeration.deps.json
+C:\Users\New Laptop\source\repos\AboutEnumeration\AboutEnumeration\bin\Debug\netcoreapp2.0\AboutEnumeration.runtimeconfig.json
+C:\Users\New Laptop\source\repos\AboutEnumeration\AboutEnumeration\bin\Debug\netcoreapp2.0\AboutEnumeration.runtimeconfig.dev.json
+C:\Users\New Laptop\source\repos\AboutEnumeration\AboutEnumeration\bin\Debug\netcoreapp2.0\AboutEnumeration.dll
+C:\Users\New Laptop\source\repos\AboutEnumeration\AboutEnumeration\bin\Debug\netcoreapp2.0\AboutEnumeration.pdb
+C:\Users\New Laptop\source\repos\AboutEnumeration\AboutEnumeration\obj\Debug\netcoreapp2.0\AboutEnumeration.csprojResolveAssemblyReference.cache
+C:\Users\New Laptop\source\repos\AboutEnumeration\AboutEnumeration\obj\Debug\netcoreapp2.0\AboutEnumeration.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\AboutEnumeration\AboutEnumeration\obj\Debug\netcoreapp2.0\AboutEnumeration.AssemblyInfoInputs.cache
+C:\Users\New Laptop\source\repos\AboutEnumeration\AboutEnumeration\obj\Debug\netcoreapp2.0\AboutEnumeration.AssemblyInfo.cs
+C:\Users\New Laptop\source\repos\AboutEnumeration\AboutEnumeration\obj\Debug\netcoreapp2.0\AboutEnumeration.dll
+C:\Users\New Laptop\source\repos\AboutEnumeration\AboutEnumeration\obj\Debug\netcoreapp2.0\AboutEnumeration.pdb

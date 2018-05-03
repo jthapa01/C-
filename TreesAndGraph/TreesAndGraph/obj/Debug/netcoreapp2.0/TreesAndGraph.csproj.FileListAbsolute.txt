@@ -1,0 +1,11 @@
+C:\Users\New Laptop\source\repos\TreesAndGraph\TreesAndGraph\obj\Debug\netcoreapp2.0\TreesAndGraph.csprojResolveAssemblyReference.cache
+C:\Users\New Laptop\source\repos\TreesAndGraph\TreesAndGraph\obj\Debug\netcoreapp2.0\TreesAndGraph.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\TreesAndGraph\TreesAndGraph\obj\Debug\netcoreapp2.0\TreesAndGraph.AssemblyInfoInputs.cache
+C:\Users\New Laptop\source\repos\TreesAndGraph\TreesAndGraph\obj\Debug\netcoreapp2.0\TreesAndGraph.AssemblyInfo.cs
+C:\Users\New Laptop\source\repos\TreesAndGraph\TreesAndGraph\bin\Debug\netcoreapp2.0\TreesAndGraph.deps.json
+C:\Users\New Laptop\source\repos\TreesAndGraph\TreesAndGraph\bin\Debug\netcoreapp2.0\TreesAndGraph.runtimeconfig.json
+C:\Users\New Laptop\source\repos\TreesAndGraph\TreesAndGraph\bin\Debug\netcoreapp2.0\TreesAndGraph.runtimeconfig.dev.json
+C:\Users\New Laptop\source\repos\TreesAndGraph\TreesAndGraph\bin\Debug\netcoreapp2.0\TreesAndGraph.dll
+C:\Users\New Laptop\source\repos\TreesAndGraph\TreesAndGraph\bin\Debug\netcoreapp2.0\TreesAndGraph.pdb
+C:\Users\New Laptop\source\repos\TreesAndGraph\TreesAndGraph\obj\Debug\netcoreapp2.0\TreesAndGraph.dll
+C:\Users\New Laptop\source\repos\TreesAndGraph\TreesAndGraph\obj\Debug\netcoreapp2.0\TreesAndGraph.pdb

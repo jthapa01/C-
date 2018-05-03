@@ -1,0 +1,11 @@
+C:\Users\New Laptop\source\repos\Recursion\IterativeNestedLoops\bin\Debug\netcoreapp2.0\IterativeNestedLoops.deps.json
+C:\Users\New Laptop\source\repos\Recursion\IterativeNestedLoops\bin\Debug\netcoreapp2.0\IterativeNestedLoops.runtimeconfig.json
+C:\Users\New Laptop\source\repos\Recursion\IterativeNestedLoops\bin\Debug\netcoreapp2.0\IterativeNestedLoops.runtimeconfig.dev.json
+C:\Users\New Laptop\source\repos\Recursion\IterativeNestedLoops\bin\Debug\netcoreapp2.0\IterativeNestedLoops.dll
+C:\Users\New Laptop\source\repos\Recursion\IterativeNestedLoops\bin\Debug\netcoreapp2.0\IterativeNestedLoops.pdb
+C:\Users\New Laptop\source\repos\Recursion\IterativeNestedLoops\obj\Debug\netcoreapp2.0\IterativeNestedLoops.csprojResolveAssemblyReference.cache
+C:\Users\New Laptop\source\repos\Recursion\IterativeNestedLoops\obj\Debug\netcoreapp2.0\IterativeNestedLoops.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\Recursion\IterativeNestedLoops\obj\Debug\netcoreapp2.0\IterativeNestedLoops.AssemblyInfoInputs.cache
+C:\Users\New Laptop\source\repos\Recursion\IterativeNestedLoops\obj\Debug\netcoreapp2.0\IterativeNestedLoops.AssemblyInfo.cs
+C:\Users\New Laptop\source\repos\Recursion\IterativeNestedLoops\obj\Debug\netcoreapp2.0\IterativeNestedLoops.dll
+C:\Users\New Laptop\source\repos\Recursion\IterativeNestedLoops\obj\Debug\netcoreapp2.0\IterativeNestedLoops.pdb

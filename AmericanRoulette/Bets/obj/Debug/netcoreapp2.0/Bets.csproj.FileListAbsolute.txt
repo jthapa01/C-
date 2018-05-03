@@ -1,0 +1,4 @@
+C:\Users\New Laptop\source\repos\AmericanRoulette\Bets\obj\Debug\netcoreapp2.0\Bets.csprojResolveAssemblyReference.cache
+C:\Users\New Laptop\source\repos\AmericanRoulette\Bets\obj\Debug\netcoreapp2.0\Bets.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\AmericanRoulette\Bets\obj\Debug\netcoreapp2.0\Bets.AssemblyInfoInputs.cache
+C:\Users\New Laptop\source\repos\AmericanRoulette\Bets\obj\Debug\netcoreapp2.0\Bets.AssemblyInfo.cs

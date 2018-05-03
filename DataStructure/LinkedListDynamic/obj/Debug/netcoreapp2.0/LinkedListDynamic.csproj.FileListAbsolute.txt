@@ -1,0 +1,11 @@
+C:\Users\New Laptop\source\repos\DataStructure\LinkedListDynamic\bin\Debug\netcoreapp2.0\LinkedListDynamic.deps.json
+C:\Users\New Laptop\source\repos\DataStructure\LinkedListDynamic\bin\Debug\netcoreapp2.0\LinkedListDynamic.runtimeconfig.json
+C:\Users\New Laptop\source\repos\DataStructure\LinkedListDynamic\bin\Debug\netcoreapp2.0\LinkedListDynamic.runtimeconfig.dev.json
+C:\Users\New Laptop\source\repos\DataStructure\LinkedListDynamic\bin\Debug\netcoreapp2.0\LinkedListDynamic.dll
+C:\Users\New Laptop\source\repos\DataStructure\LinkedListDynamic\bin\Debug\netcoreapp2.0\LinkedListDynamic.pdb
+C:\Users\New Laptop\source\repos\DataStructure\LinkedListDynamic\obj\Debug\netcoreapp2.0\LinkedListDynamic.csprojResolveAssemblyReference.cache
+C:\Users\New Laptop\source\repos\DataStructure\LinkedListDynamic\obj\Debug\netcoreapp2.0\LinkedListDynamic.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\DataStructure\LinkedListDynamic\obj\Debug\netcoreapp2.0\LinkedListDynamic.AssemblyInfoInputs.cache
+C:\Users\New Laptop\source\repos\DataStructure\LinkedListDynamic\obj\Debug\netcoreapp2.0\LinkedListDynamic.AssemblyInfo.cs
+C:\Users\New Laptop\source\repos\DataStructure\LinkedListDynamic\obj\Debug\netcoreapp2.0\LinkedListDynamic.dll
+C:\Users\New Laptop\source\repos\DataStructure\LinkedListDynamic\obj\Debug\netcoreapp2.0\LinkedListDynamic.pdb

@@ -1,0 +1,11 @@
+C:\Users\New Laptop\source\repos\MonteCarloPISimulation\MonteCarloPISimulation\bin\Debug\netcoreapp2.0\MonteCarloPISimulation.deps.json
+C:\Users\New Laptop\source\repos\MonteCarloPISimulation\MonteCarloPISimulation\bin\Debug\netcoreapp2.0\MonteCarloPISimulation.runtimeconfig.json
+C:\Users\New Laptop\source\repos\MonteCarloPISimulation\MonteCarloPISimulation\bin\Debug\netcoreapp2.0\MonteCarloPISimulation.runtimeconfig.dev.json
+C:\Users\New Laptop\source\repos\MonteCarloPISimulation\MonteCarloPISimulation\bin\Debug\netcoreapp2.0\MonteCarloPISimulation.dll
+C:\Users\New Laptop\source\repos\MonteCarloPISimulation\MonteCarloPISimulation\bin\Debug\netcoreapp2.0\MonteCarloPISimulation.pdb
+C:\Users\New Laptop\source\repos\MonteCarloPISimulation\MonteCarloPISimulation\obj\Debug\netcoreapp2.0\MonteCarloPISimulation.csprojResolveAssemblyReference.cache
+C:\Users\New Laptop\source\repos\MonteCarloPISimulation\MonteCarloPISimulation\obj\Debug\netcoreapp2.0\MonteCarloPISimulation.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\MonteCarloPISimulation\MonteCarloPISimulation\obj\Debug\netcoreapp2.0\MonteCarloPISimulation.AssemblyInfoInputs.cache
+C:\Users\New Laptop\source\repos\MonteCarloPISimulation\MonteCarloPISimulation\obj\Debug\netcoreapp2.0\MonteCarloPISimulation.AssemblyInfo.cs
+C:\Users\New Laptop\source\repos\MonteCarloPISimulation\MonteCarloPISimulation\obj\Debug\netcoreapp2.0\MonteCarloPISimulation.dll
+C:\Users\New Laptop\source\repos\MonteCarloPISimulation\MonteCarloPISimulation\obj\Debug\netcoreapp2.0\MonteCarloPISimulation.pdb

@@ -1,0 +1,11 @@
+C:\Users\New Laptop\source\repos\SolidPrincipleDI\SolidPrincipleDI\bin\Debug\netcoreapp2.0\SolidPrincipleDI.deps.json
+C:\Users\New Laptop\source\repos\SolidPrincipleDI\SolidPrincipleDI\bin\Debug\netcoreapp2.0\SolidPrincipleDI.runtimeconfig.json
+C:\Users\New Laptop\source\repos\SolidPrincipleDI\SolidPrincipleDI\bin\Debug\netcoreapp2.0\SolidPrincipleDI.runtimeconfig.dev.json
+C:\Users\New Laptop\source\repos\SolidPrincipleDI\SolidPrincipleDI\bin\Debug\netcoreapp2.0\SolidPrincipleDI.dll
+C:\Users\New Laptop\source\repos\SolidPrincipleDI\SolidPrincipleDI\bin\Debug\netcoreapp2.0\SolidPrincipleDI.pdb
+C:\Users\New Laptop\source\repos\SolidPrincipleDI\SolidPrincipleDI\obj\Debug\netcoreapp2.0\SolidPrincipleDI.csprojResolveAssemblyReference.cache
+C:\Users\New Laptop\source\repos\SolidPrincipleDI\SolidPrincipleDI\obj\Debug\netcoreapp2.0\SolidPrincipleDI.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\SolidPrincipleDI\SolidPrincipleDI\obj\Debug\netcoreapp2.0\SolidPrincipleDI.AssemblyInfoInputs.cache
+C:\Users\New Laptop\source\repos\SolidPrincipleDI\SolidPrincipleDI\obj\Debug\netcoreapp2.0\SolidPrincipleDI.AssemblyInfo.cs
+C:\Users\New Laptop\source\repos\SolidPrincipleDI\SolidPrincipleDI\obj\Debug\netcoreapp2.0\SolidPrincipleDI.dll
+C:\Users\New Laptop\source\repos\SolidPrincipleDI\SolidPrincipleDI\obj\Debug\netcoreapp2.0\SolidPrincipleDI.pdb

@@ -1,0 +1,10 @@
+C:\Users\New Laptop\source\repos\TreesAndGraph\BFSTree\bin\Debug\netcoreapp2.0\BFSTree.deps.json
+C:\Users\New Laptop\source\repos\TreesAndGraph\BFSTree\bin\Debug\netcoreapp2.0\BFSTree.runtimeconfig.json
+C:\Users\New Laptop\source\repos\TreesAndGraph\BFSTree\bin\Debug\netcoreapp2.0\BFSTree.runtimeconfig.dev.json
+C:\Users\New Laptop\source\repos\TreesAndGraph\BFSTree\bin\Debug\netcoreapp2.0\BFSTree.dll
+C:\Users\New Laptop\source\repos\TreesAndGraph\BFSTree\bin\Debug\netcoreapp2.0\BFSTree.pdb
+C:\Users\New Laptop\source\repos\TreesAndGraph\BFSTree\obj\Debug\netcoreapp2.0\BFSTree.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\TreesAndGraph\BFSTree\obj\Debug\netcoreapp2.0\BFSTree.AssemblyInfoInputs.cache
+C:\Users\New Laptop\source\repos\TreesAndGraph\BFSTree\obj\Debug\netcoreapp2.0\BFSTree.AssemblyInfo.cs
+C:\Users\New Laptop\source\repos\TreesAndGraph\BFSTree\obj\Debug\netcoreapp2.0\BFSTree.dll
+C:\Users\New Laptop\source\repos\TreesAndGraph\BFSTree\obj\Debug\netcoreapp2.0\BFSTree.pdb

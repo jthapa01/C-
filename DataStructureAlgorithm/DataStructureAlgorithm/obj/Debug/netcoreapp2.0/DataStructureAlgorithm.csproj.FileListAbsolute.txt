@@ -1,0 +1,11 @@
+C:\Users\New Laptop\source\repos\DataStructureAlgorithm\DataStructureAlgorithm\bin\Debug\netcoreapp2.0\DataStructureAlgorithm.deps.json
+C:\Users\New Laptop\source\repos\DataStructureAlgorithm\DataStructureAlgorithm\bin\Debug\netcoreapp2.0\DataStructureAlgorithm.runtimeconfig.json
+C:\Users\New Laptop\source\repos\DataStructureAlgorithm\DataStructureAlgorithm\bin\Debug\netcoreapp2.0\DataStructureAlgorithm.runtimeconfig.dev.json
+C:\Users\New Laptop\source\repos\DataStructureAlgorithm\DataStructureAlgorithm\bin\Debug\netcoreapp2.0\DataStructureAlgorithm.dll
+C:\Users\New Laptop\source\repos\DataStructureAlgorithm\DataStructureAlgorithm\bin\Debug\netcoreapp2.0\DataStructureAlgorithm.pdb
+C:\Users\New Laptop\source\repos\DataStructureAlgorithm\DataStructureAlgorithm\obj\Debug\netcoreapp2.0\DataStructureAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\New Laptop\source\repos\DataStructureAlgorithm\DataStructureAlgorithm\obj\Debug\netcoreapp2.0\DataStructureAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\DataStructureAlgorithm\DataStructureAlgorithm\obj\Debug\netcoreapp2.0\DataStructureAlgorithm.AssemblyInfoInputs.cache
+C:\Users\New Laptop\source\repos\DataStructureAlgorithm\DataStructureAlgorithm\obj\Debug\netcoreapp2.0\DataStructureAlgorithm.AssemblyInfo.cs
+C:\Users\New Laptop\source\repos\DataStructureAlgorithm\DataStructureAlgorithm\obj\Debug\netcoreapp2.0\DataStructureAlgorithm.dll
+C:\Users\New Laptop\source\repos\DataStructureAlgorithm\DataStructureAlgorithm\obj\Debug\netcoreapp2.0\DataStructureAlgorithm.pdb

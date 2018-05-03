@@ -1,0 +1,11 @@
+C:\Users\New Laptop\source\repos\TreesAndGraph\TreeDirectory\bin\Debug\netcoreapp2.0\TreeDirectory.deps.json
+C:\Users\New Laptop\source\repos\TreesAndGraph\TreeDirectory\bin\Debug\netcoreapp2.0\TreeDirectory.runtimeconfig.json
+C:\Users\New Laptop\source\repos\TreesAndGraph\TreeDirectory\bin\Debug\netcoreapp2.0\TreeDirectory.runtimeconfig.dev.json
+C:\Users\New Laptop\source\repos\TreesAndGraph\TreeDirectory\bin\Debug\netcoreapp2.0\TreeDirectory.dll
+C:\Users\New Laptop\source\repos\TreesAndGraph\TreeDirectory\bin\Debug\netcoreapp2.0\TreeDirectory.pdb
+C:\Users\New Laptop\source\repos\TreesAndGraph\TreeDirectory\obj\Debug\netcoreapp2.0\TreeDirectory.csprojResolveAssemblyReference.cache
+C:\Users\New Laptop\source\repos\TreesAndGraph\TreeDirectory\obj\Debug\netcoreapp2.0\TreeDirectory.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\TreesAndGraph\TreeDirectory\obj\Debug\netcoreapp2.0\TreeDirectory.AssemblyInfoInputs.cache
+C:\Users\New Laptop\source\repos\TreesAndGraph\TreeDirectory\obj\Debug\netcoreapp2.0\TreeDirectory.AssemblyInfo.cs
+C:\Users\New Laptop\source\repos\TreesAndGraph\TreeDirectory\obj\Debug\netcoreapp2.0\TreeDirectory.dll
+C:\Users\New Laptop\source\repos\TreesAndGraph\TreeDirectory\obj\Debug\netcoreapp2.0\TreeDirectory.pdb

@@ -1,0 +1,7 @@
+C:\Users\New Laptop\source\repos\ShallowVsDeepCopying\ShallowVsDeepCopying\bin\Debug\ShallowVsDeepCopying.exe.config
+C:\Users\New Laptop\source\repos\ShallowVsDeepCopying\ShallowVsDeepCopying\bin\Debug\ShallowVsDeepCopying.exe
+C:\Users\New Laptop\source\repos\ShallowVsDeepCopying\ShallowVsDeepCopying\bin\Debug\ShallowVsDeepCopying.pdb
+C:\Users\New Laptop\source\repos\ShallowVsDeepCopying\ShallowVsDeepCopying\obj\Debug\ShallowVsDeepCopying.csprojResolveAssemblyReference.cache
+C:\Users\New Laptop\source\repos\ShallowVsDeepCopying\ShallowVsDeepCopying\obj\Debug\ShallowVsDeepCopying.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\ShallowVsDeepCopying\ShallowVsDeepCopying\obj\Debug\ShallowVsDeepCopying.exe
+C:\Users\New Laptop\source\repos\ShallowVsDeepCopying\ShallowVsDeepCopying\obj\Debug\ShallowVsDeepCopying.pdb

@@ -1,0 +1,4 @@
+C:\Users\New Laptop\source\repos\AmericanRoulette\Roulette\obj\Debug\netcoreapp2.0\Roulette.csprojResolveAssemblyReference.cache
+C:\Users\New Laptop\source\repos\AmericanRoulette\Roulette\obj\Debug\netcoreapp2.0\Roulette.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\AmericanRoulette\Roulette\obj\Debug\netcoreapp2.0\Roulette.AssemblyInfoInputs.cache
+C:\Users\New Laptop\source\repos\AmericanRoulette\Roulette\obj\Debug\netcoreapp2.0\Roulette.AssemblyInfo.cs

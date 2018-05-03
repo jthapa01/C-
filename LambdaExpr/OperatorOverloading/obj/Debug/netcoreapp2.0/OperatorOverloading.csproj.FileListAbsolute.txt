@@ -1,0 +1,11 @@
+C:\Users\New Laptop\source\repos\LambdaExpr\OperatorOverloading\bin\Debug\netcoreapp2.0\OperatorOverloading.deps.json
+C:\Users\New Laptop\source\repos\LambdaExpr\OperatorOverloading\bin\Debug\netcoreapp2.0\OperatorOverloading.runtimeconfig.json
+C:\Users\New Laptop\source\repos\LambdaExpr\OperatorOverloading\bin\Debug\netcoreapp2.0\OperatorOverloading.runtimeconfig.dev.json
+C:\Users\New Laptop\source\repos\LambdaExpr\OperatorOverloading\bin\Debug\netcoreapp2.0\OperatorOverloading.dll
+C:\Users\New Laptop\source\repos\LambdaExpr\OperatorOverloading\bin\Debug\netcoreapp2.0\OperatorOverloading.pdb
+C:\Users\New Laptop\source\repos\LambdaExpr\OperatorOverloading\obj\Debug\netcoreapp2.0\OperatorOverloading.csprojResolveAssemblyReference.cache
+C:\Users\New Laptop\source\repos\LambdaExpr\OperatorOverloading\obj\Debug\netcoreapp2.0\OperatorOverloading.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\LambdaExpr\OperatorOverloading\obj\Debug\netcoreapp2.0\OperatorOverloading.AssemblyInfoInputs.cache
+C:\Users\New Laptop\source\repos\LambdaExpr\OperatorOverloading\obj\Debug\netcoreapp2.0\OperatorOverloading.AssemblyInfo.cs
+C:\Users\New Laptop\source\repos\LambdaExpr\OperatorOverloading\obj\Debug\netcoreapp2.0\OperatorOverloading.dll
+C:\Users\New Laptop\source\repos\LambdaExpr\OperatorOverloading\obj\Debug\netcoreapp2.0\OperatorOverloading.pdb

@@ -1,0 +1,11 @@
+C:\Users\New Laptop\source\repos\LambdaExpr\AnonymousMethods\bin\Debug\netcoreapp2.0\AnonymousMethods.deps.json
+C:\Users\New Laptop\source\repos\LambdaExpr\AnonymousMethods\bin\Debug\netcoreapp2.0\AnonymousMethods.runtimeconfig.json
+C:\Users\New Laptop\source\repos\LambdaExpr\AnonymousMethods\bin\Debug\netcoreapp2.0\AnonymousMethods.runtimeconfig.dev.json
+C:\Users\New Laptop\source\repos\LambdaExpr\AnonymousMethods\bin\Debug\netcoreapp2.0\AnonymousMethods.dll
+C:\Users\New Laptop\source\repos\LambdaExpr\AnonymousMethods\bin\Debug\netcoreapp2.0\AnonymousMethods.pdb
+C:\Users\New Laptop\source\repos\LambdaExpr\AnonymousMethods\obj\Debug\netcoreapp2.0\AnonymousMethods.csprojResolveAssemblyReference.cache
+C:\Users\New Laptop\source\repos\LambdaExpr\AnonymousMethods\obj\Debug\netcoreapp2.0\AnonymousMethods.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\LambdaExpr\AnonymousMethods\obj\Debug\netcoreapp2.0\AnonymousMethods.AssemblyInfoInputs.cache
+C:\Users\New Laptop\source\repos\LambdaExpr\AnonymousMethods\obj\Debug\netcoreapp2.0\AnonymousMethods.AssemblyInfo.cs
+C:\Users\New Laptop\source\repos\LambdaExpr\AnonymousMethods\obj\Debug\netcoreapp2.0\AnonymousMethods.dll
+C:\Users\New Laptop\source\repos\LambdaExpr\AnonymousMethods\obj\Debug\netcoreapp2.0\AnonymousMethods.pdb

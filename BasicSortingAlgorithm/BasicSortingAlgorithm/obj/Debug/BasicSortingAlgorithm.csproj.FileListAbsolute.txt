@@ -1,0 +1,7 @@
+c:\users\new laptop\source\repos\BasicSortingAlgorithm\BasicSortingAlgorithm\bin\Debug\BasicSortingAlgorithm.exe.config
+c:\users\new laptop\source\repos\BasicSortingAlgorithm\BasicSortingAlgorithm\bin\Debug\BasicSortingAlgorithm.exe
+c:\users\new laptop\source\repos\BasicSortingAlgorithm\BasicSortingAlgorithm\bin\Debug\BasicSortingAlgorithm.pdb
+c:\users\new laptop\source\repos\BasicSortingAlgorithm\BasicSortingAlgorithm\obj\Debug\BasicSortingAlgorithm.csprojResolveAssemblyReference.cache
+c:\users\new laptop\source\repos\BasicSortingAlgorithm\BasicSortingAlgorithm\obj\Debug\BasicSortingAlgorithm.csproj.CoreCompileInputs.cache
+c:\users\new laptop\source\repos\BasicSortingAlgorithm\BasicSortingAlgorithm\obj\Debug\BasicSortingAlgorithm.exe
+c:\users\new laptop\source\repos\BasicSortingAlgorithm\BasicSortingAlgorithm\obj\Debug\BasicSortingAlgorithm.pdb

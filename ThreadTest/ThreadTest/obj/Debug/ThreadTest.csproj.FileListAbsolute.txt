@@ -1,0 +1,9 @@
+C:\Users\New Laptop\source\repos\ThreadTest\ThreadTest\bin\Debug\ThreadTest.exe.config
+C:\Users\New Laptop\source\repos\ThreadTest\ThreadTest\bin\Debug\ThreadTest.exe
+C:\Users\New Laptop\source\repos\ThreadTest\ThreadTest\bin\Debug\ThreadTest.pdb
+C:\Users\New Laptop\source\repos\ThreadTest\ThreadTest\obj\Debug\ThreadTest.csprojResolveAssemblyReference.cache
+C:\Users\New Laptop\source\repos\ThreadTest\ThreadTest\obj\Debug\ThreadTest.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\ThreadTest\ThreadTest\obj\Debug\ThreadTest.exe
+C:\Users\New Laptop\source\repos\ThreadTest\ThreadTest\obj\Debug\ThreadTest.pdb
+C:\Users\New Laptop\source\repos\ThreadTest\ThreadTest\bin\Debug\BasicSortingAlgorithm.exe
+C:\Users\New Laptop\source\repos\ThreadTest\ThreadTest\bin\Debug\BasicSortingAlgorithm.pdb

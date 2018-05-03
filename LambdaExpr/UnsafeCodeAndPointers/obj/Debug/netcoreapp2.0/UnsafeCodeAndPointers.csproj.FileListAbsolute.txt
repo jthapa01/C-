@@ -1,0 +1,11 @@
+C:\Users\New Laptop\source\repos\LambdaExpr\UnsafeCodeAndPointers\obj\Debug\netcoreapp2.0\UnsafeCodeAndPointers.csprojResolveAssemblyReference.cache
+C:\Users\New Laptop\source\repos\LambdaExpr\UnsafeCodeAndPointers\obj\Debug\netcoreapp2.0\UnsafeCodeAndPointers.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\LambdaExpr\UnsafeCodeAndPointers\obj\Debug\netcoreapp2.0\UnsafeCodeAndPointers.AssemblyInfoInputs.cache
+C:\Users\New Laptop\source\repos\LambdaExpr\UnsafeCodeAndPointers\obj\Debug\netcoreapp2.0\UnsafeCodeAndPointers.AssemblyInfo.cs
+C:\Users\New Laptop\source\repos\LambdaExpr\UnsafeCodeAndPointers\bin\Debug\netcoreapp2.0\UnsafeCodeAndPointers.deps.json
+C:\Users\New Laptop\source\repos\LambdaExpr\UnsafeCodeAndPointers\bin\Debug\netcoreapp2.0\UnsafeCodeAndPointers.runtimeconfig.json
+C:\Users\New Laptop\source\repos\LambdaExpr\UnsafeCodeAndPointers\bin\Debug\netcoreapp2.0\UnsafeCodeAndPointers.runtimeconfig.dev.json
+C:\Users\New Laptop\source\repos\LambdaExpr\UnsafeCodeAndPointers\bin\Debug\netcoreapp2.0\UnsafeCodeAndPointers.dll
+C:\Users\New Laptop\source\repos\LambdaExpr\UnsafeCodeAndPointers\bin\Debug\netcoreapp2.0\UnsafeCodeAndPointers.pdb
+C:\Users\New Laptop\source\repos\LambdaExpr\UnsafeCodeAndPointers\obj\Debug\netcoreapp2.0\UnsafeCodeAndPointers.dll
+C:\Users\New Laptop\source\repos\LambdaExpr\UnsafeCodeAndPointers\obj\Debug\netcoreapp2.0\UnsafeCodeAndPointers.pdb

@@ -1,0 +1,11 @@
+C:\Users\New Laptop\source\repos\Delegate\Event\bin\Debug\netcoreapp2.0\Event.deps.json
+C:\Users\New Laptop\source\repos\Delegate\Event\bin\Debug\netcoreapp2.0\Event.runtimeconfig.json
+C:\Users\New Laptop\source\repos\Delegate\Event\bin\Debug\netcoreapp2.0\Event.runtimeconfig.dev.json
+C:\Users\New Laptop\source\repos\Delegate\Event\bin\Debug\netcoreapp2.0\Event.dll
+C:\Users\New Laptop\source\repos\Delegate\Event\bin\Debug\netcoreapp2.0\Event.pdb
+C:\Users\New Laptop\source\repos\Delegate\Event\obj\Debug\netcoreapp2.0\Event.csprojResolveAssemblyReference.cache
+C:\Users\New Laptop\source\repos\Delegate\Event\obj\Debug\netcoreapp2.0\Event.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\Delegate\Event\obj\Debug\netcoreapp2.0\Event.AssemblyInfoInputs.cache
+C:\Users\New Laptop\source\repos\Delegate\Event\obj\Debug\netcoreapp2.0\Event.AssemblyInfo.cs
+C:\Users\New Laptop\source\repos\Delegate\Event\obj\Debug\netcoreapp2.0\Event.dll
+C:\Users\New Laptop\source\repos\Delegate\Event\obj\Debug\netcoreapp2.0\Event.pdb

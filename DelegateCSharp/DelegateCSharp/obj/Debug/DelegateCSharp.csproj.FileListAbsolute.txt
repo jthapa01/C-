@@ -1,0 +1,6 @@
+c:\users\zfore\documents\visual studio 2017\Projects\DelegateCSharp\DelegateCSharp\bin\Debug\DelegateCSharp.exe.config
+c:\users\zfore\documents\visual studio 2017\Projects\DelegateCSharp\DelegateCSharp\bin\Debug\DelegateCSharp.exe
+c:\users\zfore\documents\visual studio 2017\Projects\DelegateCSharp\DelegateCSharp\bin\Debug\DelegateCSharp.pdb
+c:\users\zfore\documents\visual studio 2017\Projects\DelegateCSharp\DelegateCSharp\obj\Debug\DelegateCSharp.csprojResolveAssemblyReference.cache
+c:\users\zfore\documents\visual studio 2017\Projects\DelegateCSharp\DelegateCSharp\obj\Debug\DelegateCSharp.exe
+c:\users\zfore\documents\visual studio 2017\Projects\DelegateCSharp\DelegateCSharp\obj\Debug\DelegateCSharp.pdb

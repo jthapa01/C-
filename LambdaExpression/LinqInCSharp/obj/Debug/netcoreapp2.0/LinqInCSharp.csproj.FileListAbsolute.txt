@@ -1,0 +1,11 @@
+C:\Users\New Laptop\source\repos\LambdaExpression\LinqInCSharp\bin\Debug\netcoreapp2.0\LinqInCSharp.deps.json
+C:\Users\New Laptop\source\repos\LambdaExpression\LinqInCSharp\bin\Debug\netcoreapp2.0\LinqInCSharp.runtimeconfig.json
+C:\Users\New Laptop\source\repos\LambdaExpression\LinqInCSharp\bin\Debug\netcoreapp2.0\LinqInCSharp.runtimeconfig.dev.json
+C:\Users\New Laptop\source\repos\LambdaExpression\LinqInCSharp\bin\Debug\netcoreapp2.0\LinqInCSharp.dll
+C:\Users\New Laptop\source\repos\LambdaExpression\LinqInCSharp\bin\Debug\netcoreapp2.0\LinqInCSharp.pdb
+C:\Users\New Laptop\source\repos\LambdaExpression\LinqInCSharp\obj\Debug\netcoreapp2.0\LinqInCSharp.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\LambdaExpression\LinqInCSharp\obj\Debug\netcoreapp2.0\LinqInCSharp.AssemblyInfoInputs.cache
+C:\Users\New Laptop\source\repos\LambdaExpression\LinqInCSharp\obj\Debug\netcoreapp2.0\LinqInCSharp.AssemblyInfo.cs
+C:\Users\New Laptop\source\repos\LambdaExpression\LinqInCSharp\obj\Debug\netcoreapp2.0\LinqInCSharp.dll
+C:\Users\New Laptop\source\repos\LambdaExpression\LinqInCSharp\obj\Debug\netcoreapp2.0\LinqInCSharp.pdb
+C:\Users\New Laptop\source\repos\LambdaExpression\LinqInCSharp\obj\Debug\netcoreapp2.0\LinqInCSharp.csprojResolveAssemblyReference.cache

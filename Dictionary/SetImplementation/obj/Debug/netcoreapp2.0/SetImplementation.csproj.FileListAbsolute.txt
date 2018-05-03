@@ -1,0 +1,11 @@
+C:\Users\New Laptop\source\repos\Dictionary\SetImplementation\bin\Debug\netcoreapp2.0\SetImplementation.deps.json
+C:\Users\New Laptop\source\repos\Dictionary\SetImplementation\bin\Debug\netcoreapp2.0\SetImplementation.runtimeconfig.json
+C:\Users\New Laptop\source\repos\Dictionary\SetImplementation\bin\Debug\netcoreapp2.0\SetImplementation.runtimeconfig.dev.json
+C:\Users\New Laptop\source\repos\Dictionary\SetImplementation\bin\Debug\netcoreapp2.0\SetImplementation.dll
+C:\Users\New Laptop\source\repos\Dictionary\SetImplementation\bin\Debug\netcoreapp2.0\SetImplementation.pdb
+C:\Users\New Laptop\source\repos\Dictionary\SetImplementation\obj\Debug\netcoreapp2.0\SetImplementation.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\Dictionary\SetImplementation\obj\Debug\netcoreapp2.0\SetImplementation.AssemblyInfoInputs.cache
+C:\Users\New Laptop\source\repos\Dictionary\SetImplementation\obj\Debug\netcoreapp2.0\SetImplementation.AssemblyInfo.cs
+C:\Users\New Laptop\source\repos\Dictionary\SetImplementation\obj\Debug\netcoreapp2.0\SetImplementation.dll
+C:\Users\New Laptop\source\repos\Dictionary\SetImplementation\obj\Debug\netcoreapp2.0\SetImplementation.pdb
+C:\Users\New Laptop\source\repos\Dictionary\SetImplementation\obj\Debug\netcoreapp2.0\SetImplementation.csprojResolveAssemblyReference.cache

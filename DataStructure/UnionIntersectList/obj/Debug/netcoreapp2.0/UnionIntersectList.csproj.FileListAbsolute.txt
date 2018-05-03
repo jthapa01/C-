@@ -1,0 +1,11 @@
+C:\Users\New Laptop\source\repos\DataStructure\UnionIntersectList\bin\Debug\netcoreapp2.0\UnionIntersectList.deps.json
+C:\Users\New Laptop\source\repos\DataStructure\UnionIntersectList\bin\Debug\netcoreapp2.0\UnionIntersectList.runtimeconfig.json
+C:\Users\New Laptop\source\repos\DataStructure\UnionIntersectList\bin\Debug\netcoreapp2.0\UnionIntersectList.runtimeconfig.dev.json
+C:\Users\New Laptop\source\repos\DataStructure\UnionIntersectList\bin\Debug\netcoreapp2.0\UnionIntersectList.dll
+C:\Users\New Laptop\source\repos\DataStructure\UnionIntersectList\bin\Debug\netcoreapp2.0\UnionIntersectList.pdb
+C:\Users\New Laptop\source\repos\DataStructure\UnionIntersectList\obj\Debug\netcoreapp2.0\UnionIntersectList.csprojResolveAssemblyReference.cache
+C:\Users\New Laptop\source\repos\DataStructure\UnionIntersectList\obj\Debug\netcoreapp2.0\UnionIntersectList.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\DataStructure\UnionIntersectList\obj\Debug\netcoreapp2.0\UnionIntersectList.AssemblyInfoInputs.cache
+C:\Users\New Laptop\source\repos\DataStructure\UnionIntersectList\obj\Debug\netcoreapp2.0\UnionIntersectList.AssemblyInfo.cs
+C:\Users\New Laptop\source\repos\DataStructure\UnionIntersectList\obj\Debug\netcoreapp2.0\UnionIntersectList.dll
+C:\Users\New Laptop\source\repos\DataStructure\UnionIntersectList\obj\Debug\netcoreapp2.0\UnionIntersectList.pdb

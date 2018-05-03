@@ -1,0 +1,11 @@
+C:\Users\New Laptop\source\repos\FarmAnimalsDI\FarmAnimalsDI\bin\Debug\netcoreapp2.0\FarmAnimalsDI.deps.json
+C:\Users\New Laptop\source\repos\FarmAnimalsDI\FarmAnimalsDI\bin\Debug\netcoreapp2.0\FarmAnimalsDI.runtimeconfig.json
+C:\Users\New Laptop\source\repos\FarmAnimalsDI\FarmAnimalsDI\bin\Debug\netcoreapp2.0\FarmAnimalsDI.runtimeconfig.dev.json
+C:\Users\New Laptop\source\repos\FarmAnimalsDI\FarmAnimalsDI\bin\Debug\netcoreapp2.0\FarmAnimalsDI.dll
+C:\Users\New Laptop\source\repos\FarmAnimalsDI\FarmAnimalsDI\bin\Debug\netcoreapp2.0\FarmAnimalsDI.pdb
+C:\Users\New Laptop\source\repos\FarmAnimalsDI\FarmAnimalsDI\obj\Debug\netcoreapp2.0\FarmAnimalsDI.csprojResolveAssemblyReference.cache
+C:\Users\New Laptop\source\repos\FarmAnimalsDI\FarmAnimalsDI\obj\Debug\netcoreapp2.0\FarmAnimalsDI.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\FarmAnimalsDI\FarmAnimalsDI\obj\Debug\netcoreapp2.0\FarmAnimalsDI.AssemblyInfoInputs.cache
+C:\Users\New Laptop\source\repos\FarmAnimalsDI\FarmAnimalsDI\obj\Debug\netcoreapp2.0\FarmAnimalsDI.AssemblyInfo.cs
+C:\Users\New Laptop\source\repos\FarmAnimalsDI\FarmAnimalsDI\obj\Debug\netcoreapp2.0\FarmAnimalsDI.dll
+C:\Users\New Laptop\source\repos\FarmAnimalsDI\FarmAnimalsDI\obj\Debug\netcoreapp2.0\FarmAnimalsDI.pdb

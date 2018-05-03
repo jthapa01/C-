@@ -1,0 +1,11 @@
+C:\Users\New Laptop\source\repos\Recursion\IterativeFiboNacci\bin\Debug\netcoreapp2.0\IterativeFiboNacci.deps.json
+C:\Users\New Laptop\source\repos\Recursion\IterativeFiboNacci\bin\Debug\netcoreapp2.0\IterativeFiboNacci.runtimeconfig.json
+C:\Users\New Laptop\source\repos\Recursion\IterativeFiboNacci\bin\Debug\netcoreapp2.0\IterativeFiboNacci.runtimeconfig.dev.json
+C:\Users\New Laptop\source\repos\Recursion\IterativeFiboNacci\bin\Debug\netcoreapp2.0\IterativeFiboNacci.dll
+C:\Users\New Laptop\source\repos\Recursion\IterativeFiboNacci\bin\Debug\netcoreapp2.0\IterativeFiboNacci.pdb
+C:\Users\New Laptop\source\repos\Recursion\IterativeFiboNacci\obj\Debug\netcoreapp2.0\IterativeFiboNacci.csprojResolveAssemblyReference.cache
+C:\Users\New Laptop\source\repos\Recursion\IterativeFiboNacci\obj\Debug\netcoreapp2.0\IterativeFiboNacci.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\Recursion\IterativeFiboNacci\obj\Debug\netcoreapp2.0\IterativeFiboNacci.AssemblyInfoInputs.cache
+C:\Users\New Laptop\source\repos\Recursion\IterativeFiboNacci\obj\Debug\netcoreapp2.0\IterativeFiboNacci.AssemblyInfo.cs
+C:\Users\New Laptop\source\repos\Recursion\IterativeFiboNacci\obj\Debug\netcoreapp2.0\IterativeFiboNacci.dll
+C:\Users\New Laptop\source\repos\Recursion\IterativeFiboNacci\obj\Debug\netcoreapp2.0\IterativeFiboNacci.pdb

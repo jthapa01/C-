@@ -1,0 +1,11 @@
+C:\Users\New Laptop\source\repos\AmericanRoulette\AmericanRoulette\bin\Debug\netcoreapp2.0\AmericanRoulette.deps.json
+C:\Users\New Laptop\source\repos\AmericanRoulette\AmericanRoulette\bin\Debug\netcoreapp2.0\AmericanRoulette.runtimeconfig.json
+C:\Users\New Laptop\source\repos\AmericanRoulette\AmericanRoulette\bin\Debug\netcoreapp2.0\AmericanRoulette.runtimeconfig.dev.json
+C:\Users\New Laptop\source\repos\AmericanRoulette\AmericanRoulette\bin\Debug\netcoreapp2.0\AmericanRoulette.dll
+C:\Users\New Laptop\source\repos\AmericanRoulette\AmericanRoulette\bin\Debug\netcoreapp2.0\AmericanRoulette.pdb
+C:\Users\New Laptop\source\repos\AmericanRoulette\AmericanRoulette\obj\Debug\netcoreapp2.0\AmericanRoulette.csprojResolveAssemblyReference.cache
+C:\Users\New Laptop\source\repos\AmericanRoulette\AmericanRoulette\obj\Debug\netcoreapp2.0\AmericanRoulette.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\AmericanRoulette\AmericanRoulette\obj\Debug\netcoreapp2.0\AmericanRoulette.AssemblyInfoInputs.cache
+C:\Users\New Laptop\source\repos\AmericanRoulette\AmericanRoulette\obj\Debug\netcoreapp2.0\AmericanRoulette.AssemblyInfo.cs
+C:\Users\New Laptop\source\repos\AmericanRoulette\AmericanRoulette\obj\Debug\netcoreapp2.0\AmericanRoulette.dll
+C:\Users\New Laptop\source\repos\AmericanRoulette\AmericanRoulette\obj\Debug\netcoreapp2.0\AmericanRoulette.pdb

@@ -1,0 +1,11 @@
+C:\Users\New Laptop\source\repos\AboutGenerics\AboutGenerics\bin\Debug\netcoreapp2.0\AboutGenerics.deps.json
+C:\Users\New Laptop\source\repos\AboutGenerics\AboutGenerics\bin\Debug\netcoreapp2.0\AboutGenerics.runtimeconfig.json
+C:\Users\New Laptop\source\repos\AboutGenerics\AboutGenerics\bin\Debug\netcoreapp2.0\AboutGenerics.runtimeconfig.dev.json
+C:\Users\New Laptop\source\repos\AboutGenerics\AboutGenerics\bin\Debug\netcoreapp2.0\AboutGenerics.dll
+C:\Users\New Laptop\source\repos\AboutGenerics\AboutGenerics\bin\Debug\netcoreapp2.0\AboutGenerics.pdb
+C:\Users\New Laptop\source\repos\AboutGenerics\AboutGenerics\obj\Debug\netcoreapp2.0\AboutGenerics.csprojResolveAssemblyReference.cache
+C:\Users\New Laptop\source\repos\AboutGenerics\AboutGenerics\obj\Debug\netcoreapp2.0\AboutGenerics.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\AboutGenerics\AboutGenerics\obj\Debug\netcoreapp2.0\AboutGenerics.AssemblyInfoInputs.cache
+C:\Users\New Laptop\source\repos\AboutGenerics\AboutGenerics\obj\Debug\netcoreapp2.0\AboutGenerics.AssemblyInfo.cs
+C:\Users\New Laptop\source\repos\AboutGenerics\AboutGenerics\obj\Debug\netcoreapp2.0\AboutGenerics.dll
+C:\Users\New Laptop\source\repos\AboutGenerics\AboutGenerics\obj\Debug\netcoreapp2.0\AboutGenerics.pdb

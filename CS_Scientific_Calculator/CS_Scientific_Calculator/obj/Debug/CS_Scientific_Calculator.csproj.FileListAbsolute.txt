@@ -1,0 +1,9 @@
+c:\users\zfore\documents\visual studio 2017\Projects\CS_Scientific_Calculator\CS_Scientific_Calculator\bin\Debug\CS_Scientific_Calculator.exe.config
+c:\users\zfore\documents\visual studio 2017\Projects\CS_Scientific_Calculator\CS_Scientific_Calculator\bin\Debug\CS_Scientific_Calculator.exe
+c:\users\zfore\documents\visual studio 2017\Projects\CS_Scientific_Calculator\CS_Scientific_Calculator\bin\Debug\CS_Scientific_Calculator.pdb
+c:\users\zfore\documents\visual studio 2017\Projects\CS_Scientific_Calculator\CS_Scientific_Calculator\obj\Debug\CS_Scientific_Calculator.csprojResolveAssemblyReference.cache
+c:\users\zfore\documents\visual studio 2017\Projects\CS_Scientific_Calculator\CS_Scientific_Calculator\obj\Debug\CS_Scientific_Calculator.Properties.Resources.resources
+c:\users\zfore\documents\visual studio 2017\Projects\CS_Scientific_Calculator\CS_Scientific_Calculator\obj\Debug\CS_Scientific_Calculator.csproj.GenerateResource.Cache
+c:\users\zfore\documents\visual studio 2017\Projects\CS_Scientific_Calculator\CS_Scientific_Calculator\obj\Debug\CS_Scientific_Calculator.exe
+c:\users\zfore\documents\visual studio 2017\Projects\CS_Scientific_Calculator\CS_Scientific_Calculator\obj\Debug\CS_Scientific_Calculator.pdb
+C:\Users\zfore\Documents\Visual Studio 2017\Projects\CS_Scientific_Calculator\CS_Scientific_Calculator\obj\Debug\CS_Scientific_Calculator.Form1.resources

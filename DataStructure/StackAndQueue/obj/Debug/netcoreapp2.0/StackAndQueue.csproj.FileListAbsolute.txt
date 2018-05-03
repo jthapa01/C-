@@ -1,0 +1,11 @@
+C:\Users\New Laptop\source\repos\DataStructure\StackAndQueue\bin\Debug\netcoreapp2.0\StackAndQueue.deps.json
+C:\Users\New Laptop\source\repos\DataStructure\StackAndQueue\bin\Debug\netcoreapp2.0\StackAndQueue.runtimeconfig.json
+C:\Users\New Laptop\source\repos\DataStructure\StackAndQueue\bin\Debug\netcoreapp2.0\StackAndQueue.runtimeconfig.dev.json
+C:\Users\New Laptop\source\repos\DataStructure\StackAndQueue\bin\Debug\netcoreapp2.0\StackAndQueue.dll
+C:\Users\New Laptop\source\repos\DataStructure\StackAndQueue\bin\Debug\netcoreapp2.0\StackAndQueue.pdb
+C:\Users\New Laptop\source\repos\DataStructure\StackAndQueue\obj\Debug\netcoreapp2.0\StackAndQueue.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\DataStructure\StackAndQueue\obj\Debug\netcoreapp2.0\StackAndQueue.AssemblyInfoInputs.cache
+C:\Users\New Laptop\source\repos\DataStructure\StackAndQueue\obj\Debug\netcoreapp2.0\StackAndQueue.AssemblyInfo.cs
+C:\Users\New Laptop\source\repos\DataStructure\StackAndQueue\obj\Debug\netcoreapp2.0\StackAndQueue.dll
+C:\Users\New Laptop\source\repos\DataStructure\StackAndQueue\obj\Debug\netcoreapp2.0\StackAndQueue.pdb
+C:\Users\New Laptop\source\repos\DataStructure\StackAndQueue\obj\Debug\netcoreapp2.0\StackAndQueue.csprojResolveAssemblyReference.cache

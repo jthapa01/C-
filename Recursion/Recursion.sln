@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Recursion", "Recursion\Recursion.csproj", "{3206AC93-4C72-4E14-8347-98B962C1A547}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IterativeNestedLoops", "IterativeNestedLoops\IterativeNestedLoops.csproj", "{78C15A1A-11EB-430A-9553-3CA1AC5AB169}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecursiveFibonacci", "RecursiveFibonacci\RecursiveFibonacci.csproj", "{B9134156-98DF-4EDA-A68F-553C6A8930A1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecursiveFibonacciMemoization", "RecursiveFibonacciMemoization\RecursiveFibonacciMemoization.csproj", "{C267E758-1822-473D-BAE4-1B05D0A335E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IterativeFiboNacci", "IterativeFiboNacci\IterativeFiboNacci.csproj", "{F0D297B3-CD4E-4D29-91AF-DA8017865AD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabyrinthImplementation", "LabyrinthImplementation\LabyrinthImplementation.csproj", "{587A11AE-1895-4D08-901E-CD929D45F9D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3206AC93-4C72-4E14-8347-98B962C1A547}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3206AC93-4C72-4E14-8347-98B962C1A547}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3206AC93-4C72-4E14-8347-98B962C1A547}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3206AC93-4C72-4E14-8347-98B962C1A547}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78C15A1A-11EB-430A-9553-3CA1AC5AB169}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78C15A1A-11EB-430A-9553-3CA1AC5AB169}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78C15A1A-11EB-430A-9553-3CA1AC5AB169}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78C15A1A-11EB-430A-9553-3CA1AC5AB169}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9134156-98DF-4EDA-A68F-553C6A8930A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9134156-98DF-4EDA-A68F-553C6A8930A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9134156-98DF-4EDA-A68F-553C6A8930A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9134156-98DF-4EDA-A68F-553C6A8930A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C267E758-1822-473D-BAE4-1B05D0A335E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C267E758-1822-473D-BAE4-1B05D0A335E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C267E758-1822-473D-BAE4-1B05D0A335E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C267E758-1822-473D-BAE4-1B05D0A335E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0D297B3-CD4E-4D29-91AF-DA8017865AD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0D297B3-CD4E-4D29-91AF-DA8017865AD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0D297B3-CD4E-4D29-91AF-DA8017865AD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0D297B3-CD4E-4D29-91AF-DA8017865AD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{587A11AE-1895-4D08-901E-CD929D45F9D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{587A11AE-1895-4D08-901E-CD929D45F9D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{587A11AE-1895-4D08-901E-CD929D45F9D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{587A11AE-1895-4D08-901E-CD929D45F9D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB917950-C378-48B2-B00B-2A760E3218F2}
+	EndGlobalSection
+EndGlobal

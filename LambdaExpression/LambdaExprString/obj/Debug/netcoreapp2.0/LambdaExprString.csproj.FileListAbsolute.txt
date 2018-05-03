@@ -1,0 +1,11 @@
+C:\Users\New Laptop\source\repos\LambdaExpression\LambdaExprString\bin\Debug\netcoreapp2.0\LambdaExprString.deps.json
+C:\Users\New Laptop\source\repos\LambdaExpression\LambdaExprString\bin\Debug\netcoreapp2.0\LambdaExprString.runtimeconfig.json
+C:\Users\New Laptop\source\repos\LambdaExpression\LambdaExprString\bin\Debug\netcoreapp2.0\LambdaExprString.runtimeconfig.dev.json
+C:\Users\New Laptop\source\repos\LambdaExpression\LambdaExprString\bin\Debug\netcoreapp2.0\LambdaExprString.dll
+C:\Users\New Laptop\source\repos\LambdaExpression\LambdaExprString\bin\Debug\netcoreapp2.0\LambdaExprString.pdb
+C:\Users\New Laptop\source\repos\LambdaExpression\LambdaExprString\obj\Debug\netcoreapp2.0\LambdaExprString.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\LambdaExpression\LambdaExprString\obj\Debug\netcoreapp2.0\LambdaExprString.AssemblyInfoInputs.cache
+C:\Users\New Laptop\source\repos\LambdaExpression\LambdaExprString\obj\Debug\netcoreapp2.0\LambdaExprString.AssemblyInfo.cs
+C:\Users\New Laptop\source\repos\LambdaExpression\LambdaExprString\obj\Debug\netcoreapp2.0\LambdaExprString.dll
+C:\Users\New Laptop\source\repos\LambdaExpression\LambdaExprString\obj\Debug\netcoreapp2.0\LambdaExprString.pdb
+C:\Users\New Laptop\source\repos\LambdaExpression\LambdaExprString\obj\Debug\netcoreapp2.0\LambdaExprString.csprojResolveAssemblyReference.cache

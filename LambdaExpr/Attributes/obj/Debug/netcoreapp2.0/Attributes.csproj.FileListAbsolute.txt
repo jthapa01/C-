@@ -1,0 +1,11 @@
+C:\Users\New Laptop\source\repos\LambdaExpr\Attributes\obj\Debug\netcoreapp2.0\Attributes.csprojResolveAssemblyReference.cache
+C:\Users\New Laptop\source\repos\LambdaExpr\Attributes\obj\Debug\netcoreapp2.0\Attributes.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\LambdaExpr\Attributes\obj\Debug\netcoreapp2.0\Attributes.AssemblyInfoInputs.cache
+C:\Users\New Laptop\source\repos\LambdaExpr\Attributes\obj\Debug\netcoreapp2.0\Attributes.AssemblyInfo.cs
+C:\Users\New Laptop\source\repos\LambdaExpr\Attributes\bin\Debug\netcoreapp2.0\Attributes.deps.json
+C:\Users\New Laptop\source\repos\LambdaExpr\Attributes\bin\Debug\netcoreapp2.0\Attributes.runtimeconfig.json
+C:\Users\New Laptop\source\repos\LambdaExpr\Attributes\bin\Debug\netcoreapp2.0\Attributes.runtimeconfig.dev.json
+C:\Users\New Laptop\source\repos\LambdaExpr\Attributes\bin\Debug\netcoreapp2.0\Attributes.dll
+C:\Users\New Laptop\source\repos\LambdaExpr\Attributes\bin\Debug\netcoreapp2.0\Attributes.pdb
+C:\Users\New Laptop\source\repos\LambdaExpr\Attributes\obj\Debug\netcoreapp2.0\Attributes.dll
+C:\Users\New Laptop\source\repos\LambdaExpr\Attributes\obj\Debug\netcoreapp2.0\Attributes.pdb

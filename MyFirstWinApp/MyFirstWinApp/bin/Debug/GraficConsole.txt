@@ -1,0 +1,4 @@
+<Type anything here>
+                MessageBox.Show("GRAFIC file will be over-written !"
+                            , "Clear Out", MessageBoxButtons.OK
+                                , MessageBoxIcon.Information);

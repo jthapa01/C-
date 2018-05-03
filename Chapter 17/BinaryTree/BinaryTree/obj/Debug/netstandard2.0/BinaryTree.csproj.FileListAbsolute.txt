@@ -1,0 +1,9 @@
+C:\Users\New Laptop\source\repos\Chapter 17\BinaryTree\BinaryTree\bin\Debug\netstandard2.0\BinaryTree.deps.json
+C:\Users\New Laptop\source\repos\Chapter 17\BinaryTree\BinaryTree\bin\Debug\netstandard2.0\BinaryTree.dll
+C:\Users\New Laptop\source\repos\Chapter 17\BinaryTree\BinaryTree\bin\Debug\netstandard2.0\BinaryTree.pdb
+C:\Users\New Laptop\source\repos\Chapter 17\BinaryTree\BinaryTree\obj\Debug\netstandard2.0\BinaryTree.csprojResolveAssemblyReference.cache
+C:\Users\New Laptop\source\repos\Chapter 17\BinaryTree\BinaryTree\obj\Debug\netstandard2.0\BinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\Chapter 17\BinaryTree\BinaryTree\obj\Debug\netstandard2.0\BinaryTree.AssemblyInfoInputs.cache
+C:\Users\New Laptop\source\repos\Chapter 17\BinaryTree\BinaryTree\obj\Debug\netstandard2.0\BinaryTree.AssemblyInfo.cs
+C:\Users\New Laptop\source\repos\Chapter 17\BinaryTree\BinaryTree\obj\Debug\netstandard2.0\BinaryTree.dll
+C:\Users\New Laptop\source\repos\Chapter 17\BinaryTree\BinaryTree\obj\Debug\netstandard2.0\BinaryTree.pdb

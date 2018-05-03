@@ -1,0 +1,7 @@
+C:\Users\New Laptop\source\repos\StackAndQueue\StackAndQueue\bin\Debug\StackAndQueue.exe.config
+C:\Users\New Laptop\source\repos\StackAndQueue\StackAndQueue\bin\Debug\StackAndQueue.exe
+C:\Users\New Laptop\source\repos\StackAndQueue\StackAndQueue\bin\Debug\StackAndQueue.pdb
+C:\Users\New Laptop\source\repos\StackAndQueue\StackAndQueue\obj\Debug\StackAndQueue.csprojResolveAssemblyReference.cache
+C:\Users\New Laptop\source\repos\StackAndQueue\StackAndQueue\obj\Debug\StackAndQueue.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\StackAndQueue\StackAndQueue\obj\Debug\StackAndQueue.exe
+C:\Users\New Laptop\source\repos\StackAndQueue\StackAndQueue\obj\Debug\StackAndQueue.pdb

@@ -1,0 +1,11 @@
+C:\Users\New Laptop\source\repos\LambdaExpression\AnonymousTypes\bin\Debug\netcoreapp2.0\AnonymousTypes.deps.json
+C:\Users\New Laptop\source\repos\LambdaExpression\AnonymousTypes\bin\Debug\netcoreapp2.0\AnonymousTypes.runtimeconfig.json
+C:\Users\New Laptop\source\repos\LambdaExpression\AnonymousTypes\bin\Debug\netcoreapp2.0\AnonymousTypes.runtimeconfig.dev.json
+C:\Users\New Laptop\source\repos\LambdaExpression\AnonymousTypes\bin\Debug\netcoreapp2.0\AnonymousTypes.dll
+C:\Users\New Laptop\source\repos\LambdaExpression\AnonymousTypes\bin\Debug\netcoreapp2.0\AnonymousTypes.pdb
+C:\Users\New Laptop\source\repos\LambdaExpression\AnonymousTypes\obj\Debug\netcoreapp2.0\AnonymousTypes.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\LambdaExpression\AnonymousTypes\obj\Debug\netcoreapp2.0\AnonymousTypes.AssemblyInfoInputs.cache
+C:\Users\New Laptop\source\repos\LambdaExpression\AnonymousTypes\obj\Debug\netcoreapp2.0\AnonymousTypes.AssemblyInfo.cs
+C:\Users\New Laptop\source\repos\LambdaExpression\AnonymousTypes\obj\Debug\netcoreapp2.0\AnonymousTypes.dll
+C:\Users\New Laptop\source\repos\LambdaExpression\AnonymousTypes\obj\Debug\netcoreapp2.0\AnonymousTypes.pdb
+C:\Users\New Laptop\source\repos\LambdaExpression\AnonymousTypes\obj\Debug\netcoreapp2.0\AnonymousTypes.csprojResolveAssemblyReference.cache

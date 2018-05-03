@@ -1,0 +1,11 @@
+c:\users\new laptop\source\repos\HackerRankChallenge\HackerRankChallenge\bin\Debug\netcoreapp2.0\HackerRankChallenge.deps.json
+c:\users\new laptop\source\repos\HackerRankChallenge\HackerRankChallenge\bin\Debug\netcoreapp2.0\HackerRankChallenge.runtimeconfig.json
+c:\users\new laptop\source\repos\HackerRankChallenge\HackerRankChallenge\bin\Debug\netcoreapp2.0\HackerRankChallenge.runtimeconfig.dev.json
+c:\users\new laptop\source\repos\HackerRankChallenge\HackerRankChallenge\bin\Debug\netcoreapp2.0\HackerRankChallenge.dll
+c:\users\new laptop\source\repos\HackerRankChallenge\HackerRankChallenge\bin\Debug\netcoreapp2.0\HackerRankChallenge.pdb
+c:\users\new laptop\source\repos\HackerRankChallenge\HackerRankChallenge\obj\Debug\netcoreapp2.0\HackerRankChallenge.csprojResolveAssemblyReference.cache
+c:\users\new laptop\source\repos\HackerRankChallenge\HackerRankChallenge\obj\Debug\netcoreapp2.0\HackerRankChallenge.csproj.CoreCompileInputs.cache
+c:\users\new laptop\source\repos\HackerRankChallenge\HackerRankChallenge\obj\Debug\netcoreapp2.0\HackerRankChallenge.AssemblyInfoInputs.cache
+c:\users\new laptop\source\repos\HackerRankChallenge\HackerRankChallenge\obj\Debug\netcoreapp2.0\HackerRankChallenge.AssemblyInfo.cs
+c:\users\new laptop\source\repos\HackerRankChallenge\HackerRankChallenge\obj\Debug\netcoreapp2.0\HackerRankChallenge.dll
+c:\users\new laptop\source\repos\HackerRankChallenge\HackerRankChallenge\obj\Debug\netcoreapp2.0\HackerRankChallenge.pdb

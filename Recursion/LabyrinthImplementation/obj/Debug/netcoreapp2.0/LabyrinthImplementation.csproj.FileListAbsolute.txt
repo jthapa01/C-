@@ -1,0 +1,11 @@
+C:\Users\New Laptop\source\repos\Recursion\LabyrinthImplementation\bin\Debug\netcoreapp2.0\LabyrinthImplementation.deps.json
+C:\Users\New Laptop\source\repos\Recursion\LabyrinthImplementation\bin\Debug\netcoreapp2.0\LabyrinthImplementation.runtimeconfig.json
+C:\Users\New Laptop\source\repos\Recursion\LabyrinthImplementation\bin\Debug\netcoreapp2.0\LabyrinthImplementation.runtimeconfig.dev.json
+C:\Users\New Laptop\source\repos\Recursion\LabyrinthImplementation\bin\Debug\netcoreapp2.0\LabyrinthImplementation.dll
+C:\Users\New Laptop\source\repos\Recursion\LabyrinthImplementation\bin\Debug\netcoreapp2.0\LabyrinthImplementation.pdb
+C:\Users\New Laptop\source\repos\Recursion\LabyrinthImplementation\obj\Debug\netcoreapp2.0\LabyrinthImplementation.csprojResolveAssemblyReference.cache
+C:\Users\New Laptop\source\repos\Recursion\LabyrinthImplementation\obj\Debug\netcoreapp2.0\LabyrinthImplementation.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\Recursion\LabyrinthImplementation\obj\Debug\netcoreapp2.0\LabyrinthImplementation.AssemblyInfoInputs.cache
+C:\Users\New Laptop\source\repos\Recursion\LabyrinthImplementation\obj\Debug\netcoreapp2.0\LabyrinthImplementation.AssemblyInfo.cs
+C:\Users\New Laptop\source\repos\Recursion\LabyrinthImplementation\obj\Debug\netcoreapp2.0\LabyrinthImplementation.dll
+C:\Users\New Laptop\source\repos\Recursion\LabyrinthImplementation\obj\Debug\netcoreapp2.0\LabyrinthImplementation.pdb

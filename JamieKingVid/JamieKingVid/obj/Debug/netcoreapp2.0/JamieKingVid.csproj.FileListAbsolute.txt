@@ -1,0 +1,11 @@
+c:\users\new laptop\source\repos\JamieKingVid\JamieKingVid\obj\Debug\netcoreapp2.0\JamieKingVid.csprojResolveAssemblyReference.cache
+c:\users\new laptop\source\repos\JamieKingVid\JamieKingVid\obj\Debug\netcoreapp2.0\JamieKingVid.csproj.CoreCompileInputs.cache
+c:\users\new laptop\source\repos\JamieKingVid\JamieKingVid\obj\Debug\netcoreapp2.0\JamieKingVid.AssemblyInfoInputs.cache
+c:\users\new laptop\source\repos\JamieKingVid\JamieKingVid\obj\Debug\netcoreapp2.0\JamieKingVid.AssemblyInfo.cs
+c:\users\new laptop\source\repos\JamieKingVid\JamieKingVid\bin\Debug\netcoreapp2.0\JamieKingVid.deps.json
+c:\users\new laptop\source\repos\JamieKingVid\JamieKingVid\bin\Debug\netcoreapp2.0\JamieKingVid.runtimeconfig.json
+c:\users\new laptop\source\repos\JamieKingVid\JamieKingVid\bin\Debug\netcoreapp2.0\JamieKingVid.runtimeconfig.dev.json
+c:\users\new laptop\source\repos\JamieKingVid\JamieKingVid\bin\Debug\netcoreapp2.0\JamieKingVid.dll
+c:\users\new laptop\source\repos\JamieKingVid\JamieKingVid\bin\Debug\netcoreapp2.0\JamieKingVid.pdb
+c:\users\new laptop\source\repos\JamieKingVid\JamieKingVid\obj\Debug\netcoreapp2.0\JamieKingVid.dll
+c:\users\new laptop\source\repos\JamieKingVid\JamieKingVid\obj\Debug\netcoreapp2.0\JamieKingVid.pdb

@@ -1,0 +1,11 @@
+C:\Users\New Laptop\source\repos\LINQ\UseOfSelect\bin\Debug\netcoreapp2.0\UseOfSelect.deps.json
+C:\Users\New Laptop\source\repos\LINQ\UseOfSelect\bin\Debug\netcoreapp2.0\UseOfSelect.runtimeconfig.json
+C:\Users\New Laptop\source\repos\LINQ\UseOfSelect\bin\Debug\netcoreapp2.0\UseOfSelect.runtimeconfig.dev.json
+C:\Users\New Laptop\source\repos\LINQ\UseOfSelect\bin\Debug\netcoreapp2.0\UseOfSelect.dll
+C:\Users\New Laptop\source\repos\LINQ\UseOfSelect\bin\Debug\netcoreapp2.0\UseOfSelect.pdb
+C:\Users\New Laptop\source\repos\LINQ\UseOfSelect\obj\Debug\netcoreapp2.0\UseOfSelect.csprojResolveAssemblyReference.cache
+C:\Users\New Laptop\source\repos\LINQ\UseOfSelect\obj\Debug\netcoreapp2.0\UseOfSelect.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\LINQ\UseOfSelect\obj\Debug\netcoreapp2.0\UseOfSelect.AssemblyInfoInputs.cache
+C:\Users\New Laptop\source\repos\LINQ\UseOfSelect\obj\Debug\netcoreapp2.0\UseOfSelect.AssemblyInfo.cs
+C:\Users\New Laptop\source\repos\LINQ\UseOfSelect\obj\Debug\netcoreapp2.0\UseOfSelect.dll
+C:\Users\New Laptop\source\repos\LINQ\UseOfSelect\obj\Debug\netcoreapp2.0\UseOfSelect.pdb

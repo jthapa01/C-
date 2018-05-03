@@ -1,0 +1,9 @@
+c:\users\zfore\documents\visual studio 2017\Projects\MethodClass\MethodClass\bin\Debug\MethodClass.exe.config
+c:\users\zfore\documents\visual studio 2017\Projects\MethodClass\MethodClass\bin\Debug\MethodClass.exe
+c:\users\zfore\documents\visual studio 2017\Projects\MethodClass\MethodClass\bin\Debug\MethodClass.pdb
+c:\users\zfore\documents\visual studio 2017\Projects\MethodClass\MethodClass\obj\Debug\MethodClass.csprojResolveAssemblyReference.cache
+c:\users\zfore\documents\visual studio 2017\Projects\MethodClass\MethodClass\obj\Debug\MethodClass.Form1.resources
+c:\users\zfore\documents\visual studio 2017\Projects\MethodClass\MethodClass\obj\Debug\MethodClass.Properties.Resources.resources
+c:\users\zfore\documents\visual studio 2017\Projects\MethodClass\MethodClass\obj\Debug\MethodClass.csproj.GenerateResource.Cache
+c:\users\zfore\documents\visual studio 2017\Projects\MethodClass\MethodClass\obj\Debug\MethodClass.exe
+c:\users\zfore\documents\visual studio 2017\Projects\MethodClass\MethodClass\obj\Debug\MethodClass.pdb

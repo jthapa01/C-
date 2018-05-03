@@ -1,0 +1,11 @@
+C:\Users\New Laptop\source\repos\AboutGenerics\InnerClass\bin\Debug\netcoreapp2.0\InnerClass.deps.json
+C:\Users\New Laptop\source\repos\AboutGenerics\InnerClass\bin\Debug\netcoreapp2.0\InnerClass.runtimeconfig.json
+C:\Users\New Laptop\source\repos\AboutGenerics\InnerClass\bin\Debug\netcoreapp2.0\InnerClass.runtimeconfig.dev.json
+C:\Users\New Laptop\source\repos\AboutGenerics\InnerClass\bin\Debug\netcoreapp2.0\InnerClass.dll
+C:\Users\New Laptop\source\repos\AboutGenerics\InnerClass\bin\Debug\netcoreapp2.0\InnerClass.pdb
+C:\Users\New Laptop\source\repos\AboutGenerics\InnerClass\obj\Debug\netcoreapp2.0\InnerClass.csprojResolveAssemblyReference.cache
+C:\Users\New Laptop\source\repos\AboutGenerics\InnerClass\obj\Debug\netcoreapp2.0\InnerClass.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\AboutGenerics\InnerClass\obj\Debug\netcoreapp2.0\InnerClass.AssemblyInfoInputs.cache
+C:\Users\New Laptop\source\repos\AboutGenerics\InnerClass\obj\Debug\netcoreapp2.0\InnerClass.AssemblyInfo.cs
+C:\Users\New Laptop\source\repos\AboutGenerics\InnerClass\obj\Debug\netcoreapp2.0\InnerClass.dll
+C:\Users\New Laptop\source\repos\AboutGenerics\InnerClass\obj\Debug\netcoreapp2.0\InnerClass.pdb

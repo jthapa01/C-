@@ -1,0 +1,11 @@
+C:\Users\New Laptop\source\repos\LambdaExpr\AdvancedCSharp\bin\Debug\netcoreapp2.0\AdvancedCSharp.deps.json
+C:\Users\New Laptop\source\repos\LambdaExpr\AdvancedCSharp\bin\Debug\netcoreapp2.0\AdvancedCSharp.runtimeconfig.json
+C:\Users\New Laptop\source\repos\LambdaExpr\AdvancedCSharp\bin\Debug\netcoreapp2.0\AdvancedCSharp.runtimeconfig.dev.json
+C:\Users\New Laptop\source\repos\LambdaExpr\AdvancedCSharp\bin\Debug\netcoreapp2.0\AdvancedCSharp.dll
+C:\Users\New Laptop\source\repos\LambdaExpr\AdvancedCSharp\bin\Debug\netcoreapp2.0\AdvancedCSharp.pdb
+C:\Users\New Laptop\source\repos\LambdaExpr\AdvancedCSharp\obj\Debug\netcoreapp2.0\AdvancedCSharp.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\LambdaExpr\AdvancedCSharp\obj\Debug\netcoreapp2.0\AdvancedCSharp.AssemblyInfoInputs.cache
+C:\Users\New Laptop\source\repos\LambdaExpr\AdvancedCSharp\obj\Debug\netcoreapp2.0\AdvancedCSharp.AssemblyInfo.cs
+C:\Users\New Laptop\source\repos\LambdaExpr\AdvancedCSharp\obj\Debug\netcoreapp2.0\AdvancedCSharp.dll
+C:\Users\New Laptop\source\repos\LambdaExpr\AdvancedCSharp\obj\Debug\netcoreapp2.0\AdvancedCSharp.pdb
+C:\Users\New Laptop\source\repos\LambdaExpr\AdvancedCSharp\obj\Debug\netcoreapp2.0\AdvancedCSharp.csprojResolveAssemblyReference.cache

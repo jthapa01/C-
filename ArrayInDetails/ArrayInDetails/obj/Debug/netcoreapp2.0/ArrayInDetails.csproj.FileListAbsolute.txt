@@ -1,0 +1,11 @@
+C:\Users\New Laptop\source\repos\ArrayInDetails\ArrayInDetails\bin\Debug\netcoreapp2.0\ArrayInDetails.deps.json
+C:\Users\New Laptop\source\repos\ArrayInDetails\ArrayInDetails\bin\Debug\netcoreapp2.0\ArrayInDetails.runtimeconfig.json
+C:\Users\New Laptop\source\repos\ArrayInDetails\ArrayInDetails\bin\Debug\netcoreapp2.0\ArrayInDetails.runtimeconfig.dev.json
+C:\Users\New Laptop\source\repos\ArrayInDetails\ArrayInDetails\bin\Debug\netcoreapp2.0\ArrayInDetails.dll
+C:\Users\New Laptop\source\repos\ArrayInDetails\ArrayInDetails\bin\Debug\netcoreapp2.0\ArrayInDetails.pdb
+C:\Users\New Laptop\source\repos\ArrayInDetails\ArrayInDetails\obj\Debug\netcoreapp2.0\ArrayInDetails.csprojResolveAssemblyReference.cache
+C:\Users\New Laptop\source\repos\ArrayInDetails\ArrayInDetails\obj\Debug\netcoreapp2.0\ArrayInDetails.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\ArrayInDetails\ArrayInDetails\obj\Debug\netcoreapp2.0\ArrayInDetails.AssemblyInfoInputs.cache
+C:\Users\New Laptop\source\repos\ArrayInDetails\ArrayInDetails\obj\Debug\netcoreapp2.0\ArrayInDetails.AssemblyInfo.cs
+C:\Users\New Laptop\source\repos\ArrayInDetails\ArrayInDetails\obj\Debug\netcoreapp2.0\ArrayInDetails.dll
+C:\Users\New Laptop\source\repos\ArrayInDetails\ArrayInDetails\obj\Debug\netcoreapp2.0\ArrayInDetails.pdb

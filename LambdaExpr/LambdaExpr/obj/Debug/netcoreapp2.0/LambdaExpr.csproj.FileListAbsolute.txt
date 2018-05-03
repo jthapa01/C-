@@ -1,0 +1,11 @@
+C:\Users\New Laptop\source\repos\LambdaExpr\LambdaExpr\bin\Debug\netcoreapp2.0\LambdaExpr.deps.json
+C:\Users\New Laptop\source\repos\LambdaExpr\LambdaExpr\bin\Debug\netcoreapp2.0\LambdaExpr.runtimeconfig.json
+C:\Users\New Laptop\source\repos\LambdaExpr\LambdaExpr\bin\Debug\netcoreapp2.0\LambdaExpr.runtimeconfig.dev.json
+C:\Users\New Laptop\source\repos\LambdaExpr\LambdaExpr\bin\Debug\netcoreapp2.0\LambdaExpr.dll
+C:\Users\New Laptop\source\repos\LambdaExpr\LambdaExpr\bin\Debug\netcoreapp2.0\LambdaExpr.pdb
+C:\Users\New Laptop\source\repos\LambdaExpr\LambdaExpr\obj\Debug\netcoreapp2.0\LambdaExpr.csprojResolveAssemblyReference.cache
+C:\Users\New Laptop\source\repos\LambdaExpr\LambdaExpr\obj\Debug\netcoreapp2.0\LambdaExpr.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\LambdaExpr\LambdaExpr\obj\Debug\netcoreapp2.0\LambdaExpr.AssemblyInfoInputs.cache
+C:\Users\New Laptop\source\repos\LambdaExpr\LambdaExpr\obj\Debug\netcoreapp2.0\LambdaExpr.AssemblyInfo.cs
+C:\Users\New Laptop\source\repos\LambdaExpr\LambdaExpr\obj\Debug\netcoreapp2.0\LambdaExpr.dll
+C:\Users\New Laptop\source\repos\LambdaExpr\LambdaExpr\obj\Debug\netcoreapp2.0\LambdaExpr.pdb

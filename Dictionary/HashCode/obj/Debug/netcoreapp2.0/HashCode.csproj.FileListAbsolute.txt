@@ -1,0 +1,11 @@
+C:\Users\New Laptop\source\repos\Dictionary\HashCode\bin\Debug\netcoreapp2.0\HashCode.deps.json
+C:\Users\New Laptop\source\repos\Dictionary\HashCode\bin\Debug\netcoreapp2.0\HashCode.runtimeconfig.json
+C:\Users\New Laptop\source\repos\Dictionary\HashCode\bin\Debug\netcoreapp2.0\HashCode.runtimeconfig.dev.json
+C:\Users\New Laptop\source\repos\Dictionary\HashCode\bin\Debug\netcoreapp2.0\HashCode.dll
+C:\Users\New Laptop\source\repos\Dictionary\HashCode\bin\Debug\netcoreapp2.0\HashCode.pdb
+C:\Users\New Laptop\source\repos\Dictionary\HashCode\obj\Debug\netcoreapp2.0\HashCode.csprojResolveAssemblyReference.cache
+C:\Users\New Laptop\source\repos\Dictionary\HashCode\obj\Debug\netcoreapp2.0\HashCode.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\Dictionary\HashCode\obj\Debug\netcoreapp2.0\HashCode.AssemblyInfoInputs.cache
+C:\Users\New Laptop\source\repos\Dictionary\HashCode\obj\Debug\netcoreapp2.0\HashCode.AssemblyInfo.cs
+C:\Users\New Laptop\source\repos\Dictionary\HashCode\obj\Debug\netcoreapp2.0\HashCode.dll
+C:\Users\New Laptop\source\repos\Dictionary\HashCode\obj\Debug\netcoreapp2.0\HashCode.pdb

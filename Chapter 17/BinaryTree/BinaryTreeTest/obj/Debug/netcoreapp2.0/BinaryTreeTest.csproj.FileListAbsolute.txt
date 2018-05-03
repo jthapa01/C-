@@ -1,0 +1,14 @@
+C:\Users\New Laptop\source\repos\Chapter 17\BinaryTree\BinaryTreeTest\bin\Debug\netcoreapp2.0\BinaryTreeTest.deps.json
+C:\Users\New Laptop\source\repos\Chapter 17\BinaryTree\BinaryTreeTest\bin\Debug\netcoreapp2.0\BinaryTreeTest.runtimeconfig.json
+C:\Users\New Laptop\source\repos\Chapter 17\BinaryTree\BinaryTreeTest\bin\Debug\netcoreapp2.0\BinaryTreeTest.runtimeconfig.dev.json
+C:\Users\New Laptop\source\repos\Chapter 17\BinaryTree\BinaryTreeTest\bin\Debug\netcoreapp2.0\BinaryTreeTest.dll
+C:\Users\New Laptop\source\repos\Chapter 17\BinaryTree\BinaryTreeTest\bin\Debug\netcoreapp2.0\BinaryTreeTest.pdb
+C:\Users\New Laptop\source\repos\Chapter 17\BinaryTree\BinaryTreeTest\bin\Debug\netcoreapp2.0\BinaryTree.dll
+C:\Users\New Laptop\source\repos\Chapter 17\BinaryTree\BinaryTreeTest\bin\Debug\netcoreapp2.0\BinaryTree.pdb
+C:\Users\New Laptop\source\repos\Chapter 17\BinaryTree\BinaryTreeTest\obj\Debug\netcoreapp2.0\BinaryTreeTest.csprojResolveAssemblyReference.cache
+C:\Users\New Laptop\source\repos\Chapter 17\BinaryTree\BinaryTreeTest\obj\Debug\netcoreapp2.0\BinaryTreeTest.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\Chapter 17\BinaryTree\BinaryTreeTest\obj\Debug\netcoreapp2.0\BinaryTreeTest.AssemblyInfoInputs.cache
+C:\Users\New Laptop\source\repos\Chapter 17\BinaryTree\BinaryTreeTest\obj\Debug\netcoreapp2.0\BinaryTreeTest.AssemblyInfo.cs
+C:\Users\New Laptop\source\repos\Chapter 17\BinaryTree\BinaryTreeTest\obj\Debug\netcoreapp2.0\BinaryTreeTest.csproj.CopyComplete
+C:\Users\New Laptop\source\repos\Chapter 17\BinaryTree\BinaryTreeTest\obj\Debug\netcoreapp2.0\BinaryTreeTest.dll
+C:\Users\New Laptop\source\repos\Chapter 17\BinaryTree\BinaryTreeTest\obj\Debug\netcoreapp2.0\BinaryTreeTest.pdb

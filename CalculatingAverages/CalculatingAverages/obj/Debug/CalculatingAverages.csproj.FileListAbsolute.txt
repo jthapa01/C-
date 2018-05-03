@@ -1,0 +1,7 @@
+c:\users\new laptop\source\repos\CalculatingAverages\CalculatingAverages\bin\Debug\CalculatingAverages.exe.config
+c:\users\new laptop\source\repos\CalculatingAverages\CalculatingAverages\bin\Debug\CalculatingAverages.exe
+c:\users\new laptop\source\repos\CalculatingAverages\CalculatingAverages\bin\Debug\CalculatingAverages.pdb
+c:\users\new laptop\source\repos\CalculatingAverages\CalculatingAverages\obj\Debug\CalculatingAverages.csprojResolveAssemblyReference.cache
+c:\users\new laptop\source\repos\CalculatingAverages\CalculatingAverages\obj\Debug\CalculatingAverages.csproj.CoreCompileInputs.cache
+c:\users\new laptop\source\repos\CalculatingAverages\CalculatingAverages\obj\Debug\CalculatingAverages.exe
+c:\users\new laptop\source\repos\CalculatingAverages\CalculatingAverages\obj\Debug\CalculatingAverages.pdb

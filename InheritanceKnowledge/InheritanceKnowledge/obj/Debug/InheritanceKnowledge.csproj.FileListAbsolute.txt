@@ -1,0 +1,6 @@
+c:\users\zfore\documents\visual studio 2017\Projects\InheritanceKnowledge\InheritanceKnowledge\bin\Debug\InheritanceKnowledge.exe.config
+c:\users\zfore\documents\visual studio 2017\Projects\InheritanceKnowledge\InheritanceKnowledge\bin\Debug\InheritanceKnowledge.exe
+c:\users\zfore\documents\visual studio 2017\Projects\InheritanceKnowledge\InheritanceKnowledge\bin\Debug\InheritanceKnowledge.pdb
+c:\users\zfore\documents\visual studio 2017\Projects\InheritanceKnowledge\InheritanceKnowledge\obj\Debug\InheritanceKnowledge.csprojResolveAssemblyReference.cache
+c:\users\zfore\documents\visual studio 2017\Projects\InheritanceKnowledge\InheritanceKnowledge\obj\Debug\InheritanceKnowledge.exe
+c:\users\zfore\documents\visual studio 2017\Projects\InheritanceKnowledge\InheritanceKnowledge\obj\Debug\InheritanceKnowledge.pdb

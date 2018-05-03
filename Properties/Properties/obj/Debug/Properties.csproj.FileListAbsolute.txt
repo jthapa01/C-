@@ -1,0 +1,9 @@
+c:\users\zfore\documents\visual studio 2017\Projects\Properties\Properties\bin\Debug\Properties.exe.config
+c:\users\zfore\documents\visual studio 2017\Projects\Properties\Properties\bin\Debug\Properties.exe
+c:\users\zfore\documents\visual studio 2017\Projects\Properties\Properties\bin\Debug\Properties.pdb
+c:\users\zfore\documents\visual studio 2017\Projects\Properties\Properties\obj\Debug\Properties.csprojResolveAssemblyReference.cache
+c:\users\zfore\documents\visual studio 2017\Projects\Properties\Properties\obj\Debug\Properties.Form1.resources
+c:\users\zfore\documents\visual studio 2017\Projects\Properties\Properties\obj\Debug\Properties.Properties.Resources.resources
+c:\users\zfore\documents\visual studio 2017\Projects\Properties\Properties\obj\Debug\Properties.csproj.GenerateResource.Cache
+c:\users\zfore\documents\visual studio 2017\Projects\Properties\Properties\obj\Debug\Properties.exe
+c:\users\zfore\documents\visual studio 2017\Projects\Properties\Properties\obj\Debug\Properties.pdb

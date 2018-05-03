@@ -1,0 +1,10 @@
+c:\users\new laptop\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+c:\users\new laptop\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+c:\users\new laptop\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+c:\users\new laptop\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\LambdaExpression.csprojResolveAssemblyReference.cache
+c:\users\new laptop\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+c:\users\new laptop\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\LambdaExpression.csproj.GenerateResource.cache
+c:\users\new laptop\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\LambdaExpression.csproj.CoreCompileInputs.cache
+c:\users\new laptop\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+c:\users\new laptop\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+c:\users\new laptop\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources

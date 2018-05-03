@@ -1,0 +1,9 @@
+c:\users\zfore\documents\visual studio 2017\Projects\Delegates\Delegates\bin\Debug\Delegates.exe.config
+c:\users\zfore\documents\visual studio 2017\Projects\Delegates\Delegates\bin\Debug\Delegates.exe
+c:\users\zfore\documents\visual studio 2017\Projects\Delegates\Delegates\bin\Debug\Delegates.pdb
+c:\users\zfore\documents\visual studio 2017\Projects\Delegates\Delegates\obj\Debug\Delegates.csprojResolveAssemblyReference.cache
+c:\users\zfore\documents\visual studio 2017\Projects\Delegates\Delegates\obj\Debug\Delegates.Form1.resources
+c:\users\zfore\documents\visual studio 2017\Projects\Delegates\Delegates\obj\Debug\Delegates.Properties.Resources.resources
+c:\users\zfore\documents\visual studio 2017\Projects\Delegates\Delegates\obj\Debug\Delegates.csproj.GenerateResource.Cache
+c:\users\zfore\documents\visual studio 2017\Projects\Delegates\Delegates\obj\Debug\Delegates.exe
+c:\users\zfore\documents\visual studio 2017\Projects\Delegates\Delegates\obj\Debug\Delegates.pdb

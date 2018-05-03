@@ -1,0 +1,11 @@
+c:\users\new laptop\source\repos\FileStreamAdvance\FileStreamAdvance\bin\Debug\netcoreapp2.0\FileStreamAdvance.deps.json
+c:\users\new laptop\source\repos\FileStreamAdvance\FileStreamAdvance\bin\Debug\netcoreapp2.0\FileStreamAdvance.runtimeconfig.json
+c:\users\new laptop\source\repos\FileStreamAdvance\FileStreamAdvance\bin\Debug\netcoreapp2.0\FileStreamAdvance.runtimeconfig.dev.json
+c:\users\new laptop\source\repos\FileStreamAdvance\FileStreamAdvance\bin\Debug\netcoreapp2.0\FileStreamAdvance.dll
+c:\users\new laptop\source\repos\FileStreamAdvance\FileStreamAdvance\bin\Debug\netcoreapp2.0\FileStreamAdvance.pdb
+c:\users\new laptop\source\repos\FileStreamAdvance\FileStreamAdvance\obj\Debug\netcoreapp2.0\FileStreamAdvance.csprojResolveAssemblyReference.cache
+c:\users\new laptop\source\repos\FileStreamAdvance\FileStreamAdvance\obj\Debug\netcoreapp2.0\FileStreamAdvance.csproj.CoreCompileInputs.cache
+c:\users\new laptop\source\repos\FileStreamAdvance\FileStreamAdvance\obj\Debug\netcoreapp2.0\FileStreamAdvance.AssemblyInfoInputs.cache
+c:\users\new laptop\source\repos\FileStreamAdvance\FileStreamAdvance\obj\Debug\netcoreapp2.0\FileStreamAdvance.AssemblyInfo.cs
+c:\users\new laptop\source\repos\FileStreamAdvance\FileStreamAdvance\obj\Debug\netcoreapp2.0\FileStreamAdvance.dll
+c:\users\new laptop\source\repos\FileStreamAdvance\FileStreamAdvance\obj\Debug\netcoreapp2.0\FileStreamAdvance.pdb

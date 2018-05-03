@@ -1,0 +1,11 @@
+C:\Users\New Laptop\source\repos\MyFirstWinApp\MyFirstWinApp\bin\Debug\MyFirstWinApp.exe.config
+C:\Users\New Laptop\source\repos\MyFirstWinApp\MyFirstWinApp\bin\Debug\MyFirstWinApp.exe
+C:\Users\New Laptop\source\repos\MyFirstWinApp\MyFirstWinApp\bin\Debug\MyFirstWinApp.pdb
+C:\Users\New Laptop\source\repos\MyFirstWinApp\MyFirstWinApp\obj\Debug\MyFirstWinApp.csprojResolveAssemblyReference.cache
+C:\Users\New Laptop\source\repos\MyFirstWinApp\MyFirstWinApp\obj\Debug\MyFirstWinApp.Form1.resources
+C:\Users\New Laptop\source\repos\MyFirstWinApp\MyFirstWinApp\obj\Debug\MyFirstWinApp.Properties.Resources.resources
+C:\Users\New Laptop\source\repos\MyFirstWinApp\MyFirstWinApp\obj\Debug\MyFirstWinApp.csproj.GenerateResource.cache
+C:\Users\New Laptop\source\repos\MyFirstWinApp\MyFirstWinApp\obj\Debug\MyFirstWinApp.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\MyFirstWinApp\MyFirstWinApp\obj\Debug\MyFirstWinApp.exe
+C:\Users\New Laptop\source\repos\MyFirstWinApp\MyFirstWinApp\obj\Debug\MyFirstWinApp.pdb
+C:\Users\New Laptop\source\repos\MyFirstWinApp\MyFirstWinApp\bin\Debug\GraficConsole.txt

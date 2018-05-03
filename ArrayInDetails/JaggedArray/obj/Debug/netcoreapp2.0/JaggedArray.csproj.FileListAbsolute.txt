@@ -1,0 +1,11 @@
+C:\Users\New Laptop\source\repos\ArrayInDetails\JaggedArray\bin\Debug\netcoreapp2.0\JaggedArray.deps.json
+C:\Users\New Laptop\source\repos\ArrayInDetails\JaggedArray\bin\Debug\netcoreapp2.0\JaggedArray.runtimeconfig.json
+C:\Users\New Laptop\source\repos\ArrayInDetails\JaggedArray\bin\Debug\netcoreapp2.0\JaggedArray.runtimeconfig.dev.json
+C:\Users\New Laptop\source\repos\ArrayInDetails\JaggedArray\bin\Debug\netcoreapp2.0\JaggedArray.dll
+C:\Users\New Laptop\source\repos\ArrayInDetails\JaggedArray\bin\Debug\netcoreapp2.0\JaggedArray.pdb
+C:\Users\New Laptop\source\repos\ArrayInDetails\JaggedArray\obj\Debug\netcoreapp2.0\JaggedArray.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\ArrayInDetails\JaggedArray\obj\Debug\netcoreapp2.0\JaggedArray.AssemblyInfoInputs.cache
+C:\Users\New Laptop\source\repos\ArrayInDetails\JaggedArray\obj\Debug\netcoreapp2.0\JaggedArray.AssemblyInfo.cs
+C:\Users\New Laptop\source\repos\ArrayInDetails\JaggedArray\obj\Debug\netcoreapp2.0\JaggedArray.dll
+C:\Users\New Laptop\source\repos\ArrayInDetails\JaggedArray\obj\Debug\netcoreapp2.0\JaggedArray.pdb
+C:\Users\New Laptop\source\repos\ArrayInDetails\JaggedArray\obj\Debug\netcoreapp2.0\JaggedArray.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+c:\users\zfore\documents\visual studio 2017\Projects\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+c:\users\zfore\documents\visual studio 2017\Projects\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+c:\users\zfore\documents\visual studio 2017\Projects\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+c:\users\zfore\documents\visual studio 2017\Projects\Inheritance\Inheritance\obj\Debug\Inheritance.csprojResolveAssemblyReference.cache
+c:\users\zfore\documents\visual studio 2017\Projects\Inheritance\Inheritance\obj\Debug\Inheritance.Form1.resources
+c:\users\zfore\documents\visual studio 2017\Projects\Inheritance\Inheritance\obj\Debug\Inheritance.Properties.Resources.resources
+c:\users\zfore\documents\visual studio 2017\Projects\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.GenerateResource.Cache
+c:\users\zfore\documents\visual studio 2017\Projects\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+c:\users\zfore\documents\visual studio 2017\Projects\Inheritance\Inheritance\obj\Debug\Inheritance.pdb

@@ -1,0 +1,7 @@
+C:\Users\New Laptop\source\repos\PracticeInterview\PracticeInterview\bin\Debug\PracticeInterview.exe.config
+C:\Users\New Laptop\source\repos\PracticeInterview\PracticeInterview\bin\Debug\PracticeInterview.exe
+C:\Users\New Laptop\source\repos\PracticeInterview\PracticeInterview\bin\Debug\PracticeInterview.pdb
+C:\Users\New Laptop\source\repos\PracticeInterview\PracticeInterview\obj\Debug\PracticeInterview.csprojResolveAssemblyReference.cache
+C:\Users\New Laptop\source\repos\PracticeInterview\PracticeInterview\obj\Debug\PracticeInterview.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\PracticeInterview\PracticeInterview\obj\Debug\PracticeInterview.exe
+C:\Users\New Laptop\source\repos\PracticeInterview\PracticeInterview\obj\Debug\PracticeInterview.pdb

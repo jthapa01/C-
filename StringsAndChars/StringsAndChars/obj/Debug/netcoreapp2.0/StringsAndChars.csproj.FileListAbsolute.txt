@@ -1,0 +1,11 @@
+C:\Users\New Laptop\source\repos\StringsAndChars\StringsAndChars\bin\Debug\netcoreapp2.0\StringsAndChars.deps.json
+C:\Users\New Laptop\source\repos\StringsAndChars\StringsAndChars\bin\Debug\netcoreapp2.0\StringsAndChars.runtimeconfig.json
+C:\Users\New Laptop\source\repos\StringsAndChars\StringsAndChars\bin\Debug\netcoreapp2.0\StringsAndChars.runtimeconfig.dev.json
+C:\Users\New Laptop\source\repos\StringsAndChars\StringsAndChars\bin\Debug\netcoreapp2.0\StringsAndChars.dll
+C:\Users\New Laptop\source\repos\StringsAndChars\StringsAndChars\bin\Debug\netcoreapp2.0\StringsAndChars.pdb
+C:\Users\New Laptop\source\repos\StringsAndChars\StringsAndChars\obj\Debug\netcoreapp2.0\StringsAndChars.csprojResolveAssemblyReference.cache
+C:\Users\New Laptop\source\repos\StringsAndChars\StringsAndChars\obj\Debug\netcoreapp2.0\StringsAndChars.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\StringsAndChars\StringsAndChars\obj\Debug\netcoreapp2.0\StringsAndChars.AssemblyInfoInputs.cache
+C:\Users\New Laptop\source\repos\StringsAndChars\StringsAndChars\obj\Debug\netcoreapp2.0\StringsAndChars.AssemblyInfo.cs
+C:\Users\New Laptop\source\repos\StringsAndChars\StringsAndChars\obj\Debug\netcoreapp2.0\StringsAndChars.dll
+C:\Users\New Laptop\source\repos\StringsAndChars\StringsAndChars\obj\Debug\netcoreapp2.0\StringsAndChars.pdb

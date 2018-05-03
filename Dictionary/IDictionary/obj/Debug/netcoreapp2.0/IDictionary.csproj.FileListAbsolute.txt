@@ -1,0 +1,14 @@
+C:\Users\New Laptop\source\repos\Dictionary\IDictionary\obj\Debug\netcoreapp2.0\IDictionary.csprojResolveAssemblyReference.cache
+C:\Users\New Laptop\source\repos\Dictionary\IDictionary\obj\Debug\netcoreapp2.0\IDictionary.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\Dictionary\IDictionary\obj\Debug\netcoreapp2.0\IDictionary.AssemblyInfoInputs.cache
+C:\Users\New Laptop\source\repos\Dictionary\IDictionary\obj\Debug\netcoreapp2.0\IDictionary.AssemblyInfo.cs
+C:\Users\New Laptop\source\repos\Dictionary\IDictionary\bin\Debug\netcoreapp2.0\IDictionary.deps.json
+C:\Users\New Laptop\source\repos\Dictionary\IDictionary\bin\Debug\netcoreapp2.0\IDictionary.runtimeconfig.json
+C:\Users\New Laptop\source\repos\Dictionary\IDictionary\bin\Debug\netcoreapp2.0\IDictionary.runtimeconfig.dev.json
+C:\Users\New Laptop\source\repos\Dictionary\IDictionary\bin\Debug\netcoreapp2.0\IDictionary.dll
+C:\Users\New Laptop\source\repos\Dictionary\IDictionary\bin\Debug\netcoreapp2.0\IDictionary.pdb
+C:\Users\New Laptop\source\repos\Dictionary\IDictionary\bin\Debug\netcoreapp2.0\HashCode.dll
+C:\Users\New Laptop\source\repos\Dictionary\IDictionary\bin\Debug\netcoreapp2.0\HashCode.pdb
+C:\Users\New Laptop\source\repos\Dictionary\IDictionary\obj\Debug\netcoreapp2.0\IDictionary.csproj.CopyComplete
+C:\Users\New Laptop\source\repos\Dictionary\IDictionary\obj\Debug\netcoreapp2.0\IDictionary.dll
+C:\Users\New Laptop\source\repos\Dictionary\IDictionary\obj\Debug\netcoreapp2.0\IDictionary.pdb

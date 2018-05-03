@@ -1,0 +1,11 @@
+C:\Users\New Laptop\source\repos\LambdaExpression\JoiningDataLinq\bin\Debug\netcoreapp2.0\JoiningDataLinq.deps.json
+C:\Users\New Laptop\source\repos\LambdaExpression\JoiningDataLinq\bin\Debug\netcoreapp2.0\JoiningDataLinq.runtimeconfig.json
+C:\Users\New Laptop\source\repos\LambdaExpression\JoiningDataLinq\bin\Debug\netcoreapp2.0\JoiningDataLinq.runtimeconfig.dev.json
+C:\Users\New Laptop\source\repos\LambdaExpression\JoiningDataLinq\bin\Debug\netcoreapp2.0\JoiningDataLinq.dll
+C:\Users\New Laptop\source\repos\LambdaExpression\JoiningDataLinq\bin\Debug\netcoreapp2.0\JoiningDataLinq.pdb
+C:\Users\New Laptop\source\repos\LambdaExpression\JoiningDataLinq\obj\Debug\netcoreapp2.0\JoiningDataLinq.csprojResolveAssemblyReference.cache
+C:\Users\New Laptop\source\repos\LambdaExpression\JoiningDataLinq\obj\Debug\netcoreapp2.0\JoiningDataLinq.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\LambdaExpression\JoiningDataLinq\obj\Debug\netcoreapp2.0\JoiningDataLinq.AssemblyInfoInputs.cache
+C:\Users\New Laptop\source\repos\LambdaExpression\JoiningDataLinq\obj\Debug\netcoreapp2.0\JoiningDataLinq.AssemblyInfo.cs
+C:\Users\New Laptop\source\repos\LambdaExpression\JoiningDataLinq\obj\Debug\netcoreapp2.0\JoiningDataLinq.dll
+C:\Users\New Laptop\source\repos\LambdaExpression\JoiningDataLinq\obj\Debug\netcoreapp2.0\JoiningDataLinq.pdb

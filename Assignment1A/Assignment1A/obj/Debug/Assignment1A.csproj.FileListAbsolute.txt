@@ -1,0 +1,13 @@
+c:\users\zfore\documents\visual studio 2017\Projects\Assignment1A\Assignment1A\bin\Debug\Assignment1A.exe.config
+c:\users\zfore\documents\visual studio 2017\Projects\Assignment1A\Assignment1A\bin\Debug\Assignment1A.exe
+c:\users\zfore\documents\visual studio 2017\Projects\Assignment1A\Assignment1A\bin\Debug\Assignment1A.pdb
+c:\users\zfore\documents\visual studio 2017\Projects\Assignment1A\Assignment1A\obj\Debug\Assignment1A.csprojResolveAssemblyReference.cache
+c:\users\zfore\documents\visual studio 2017\Projects\Assignment1A\Assignment1A\obj\Debug\Assignment1A.exe
+c:\users\zfore\documents\visual studio 2017\Projects\Assignment1A\Assignment1A\obj\Debug\Assignment1A.pdb
+C:\Users\New Laptop\source\repos\Assignment1A\Assignment1A\bin\Debug\Assignment1A.exe.config
+C:\Users\New Laptop\source\repos\Assignment1A\Assignment1A\bin\Debug\Assignment1A.exe
+C:\Users\New Laptop\source\repos\Assignment1A\Assignment1A\bin\Debug\Assignment1A.pdb
+C:\Users\New Laptop\source\repos\Assignment1A\Assignment1A\obj\Debug\Assignment1A.csprojResolveAssemblyReference.cache
+C:\Users\New Laptop\source\repos\Assignment1A\Assignment1A\obj\Debug\Assignment1A.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\Assignment1A\Assignment1A\obj\Debug\Assignment1A.exe
+C:\Users\New Laptop\source\repos\Assignment1A\Assignment1A\obj\Debug\Assignment1A.pdb

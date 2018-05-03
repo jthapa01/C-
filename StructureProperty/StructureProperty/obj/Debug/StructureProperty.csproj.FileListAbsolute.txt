@@ -1,0 +1,4 @@
+c:\users\zfore\documents\visual studio 2017\Projects\StructureProperty\StructureProperty\obj\Debug\StructureProperty.csprojResolveAssemblyReference.cache
+c:\users\zfore\documents\visual studio 2017\Projects\StructureProperty\StructureProperty\obj\Debug\StructureProperty.Form1.resources
+c:\users\zfore\documents\visual studio 2017\Projects\StructureProperty\StructureProperty\obj\Debug\StructureProperty.Properties.Resources.resources
+c:\users\zfore\documents\visual studio 2017\Projects\StructureProperty\StructureProperty\obj\Debug\StructureProperty.csproj.GenerateResource.Cache

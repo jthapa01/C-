@@ -1,0 +1,7 @@
+C:\Users\New Laptop\source\repos\StackAndQueue\PrimaryStackOperations\bin\Debug\PrimaryStackOperations.exe.config
+C:\Users\New Laptop\source\repos\StackAndQueue\PrimaryStackOperations\bin\Debug\PrimaryStackOperations.exe
+C:\Users\New Laptop\source\repos\StackAndQueue\PrimaryStackOperations\bin\Debug\PrimaryStackOperations.pdb
+C:\Users\New Laptop\source\repos\StackAndQueue\PrimaryStackOperations\obj\Debug\PrimaryStackOperations.csprojResolveAssemblyReference.cache
+C:\Users\New Laptop\source\repos\StackAndQueue\PrimaryStackOperations\obj\Debug\PrimaryStackOperations.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\StackAndQueue\PrimaryStackOperations\obj\Debug\PrimaryStackOperations.exe
+C:\Users\New Laptop\source\repos\StackAndQueue\PrimaryStackOperations\obj\Debug\PrimaryStackOperations.pdb

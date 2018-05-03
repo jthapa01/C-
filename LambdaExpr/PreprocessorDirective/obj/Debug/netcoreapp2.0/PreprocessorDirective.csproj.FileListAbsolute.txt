@@ -1,0 +1,11 @@
+C:\Users\New Laptop\source\repos\LambdaExpr\PreprocessorDirective\bin\Debug\netcoreapp2.0\PreprocessorDirective.deps.json
+C:\Users\New Laptop\source\repos\LambdaExpr\PreprocessorDirective\bin\Debug\netcoreapp2.0\PreprocessorDirective.runtimeconfig.json
+C:\Users\New Laptop\source\repos\LambdaExpr\PreprocessorDirective\bin\Debug\netcoreapp2.0\PreprocessorDirective.runtimeconfig.dev.json
+C:\Users\New Laptop\source\repos\LambdaExpr\PreprocessorDirective\bin\Debug\netcoreapp2.0\PreprocessorDirective.dll
+C:\Users\New Laptop\source\repos\LambdaExpr\PreprocessorDirective\bin\Debug\netcoreapp2.0\PreprocessorDirective.pdb
+C:\Users\New Laptop\source\repos\LambdaExpr\PreprocessorDirective\obj\Debug\netcoreapp2.0\PreprocessorDirective.csprojResolveAssemblyReference.cache
+C:\Users\New Laptop\source\repos\LambdaExpr\PreprocessorDirective\obj\Debug\netcoreapp2.0\PreprocessorDirective.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\LambdaExpr\PreprocessorDirective\obj\Debug\netcoreapp2.0\PreprocessorDirective.AssemblyInfoInputs.cache
+C:\Users\New Laptop\source\repos\LambdaExpr\PreprocessorDirective\obj\Debug\netcoreapp2.0\PreprocessorDirective.AssemblyInfo.cs
+C:\Users\New Laptop\source\repos\LambdaExpr\PreprocessorDirective\obj\Debug\netcoreapp2.0\PreprocessorDirective.dll
+C:\Users\New Laptop\source\repos\LambdaExpr\PreprocessorDirective\obj\Debug\netcoreapp2.0\PreprocessorDirective.pdb

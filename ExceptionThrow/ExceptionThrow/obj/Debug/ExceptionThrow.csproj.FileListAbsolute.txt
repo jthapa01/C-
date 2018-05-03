@@ -1,0 +1,9 @@
+c:\users\zfore\documents\visual studio 2017\Projects\ExceptionThrow\ExceptionThrow\bin\Debug\ExceptionThrow.exe.config
+c:\users\zfore\documents\visual studio 2017\Projects\ExceptionThrow\ExceptionThrow\bin\Debug\ExceptionThrow.exe
+c:\users\zfore\documents\visual studio 2017\Projects\ExceptionThrow\ExceptionThrow\bin\Debug\ExceptionThrow.pdb
+c:\users\zfore\documents\visual studio 2017\Projects\ExceptionThrow\ExceptionThrow\obj\Debug\ExceptionThrow.csprojResolveAssemblyReference.cache
+c:\users\zfore\documents\visual studio 2017\Projects\ExceptionThrow\ExceptionThrow\obj\Debug\ExceptionThrow.Form1.resources
+c:\users\zfore\documents\visual studio 2017\Projects\ExceptionThrow\ExceptionThrow\obj\Debug\ExceptionThrow.Properties.Resources.resources
+c:\users\zfore\documents\visual studio 2017\Projects\ExceptionThrow\ExceptionThrow\obj\Debug\ExceptionThrow.csproj.GenerateResource.Cache
+c:\users\zfore\documents\visual studio 2017\Projects\ExceptionThrow\ExceptionThrow\obj\Debug\ExceptionThrow.exe
+c:\users\zfore\documents\visual studio 2017\Projects\ExceptionThrow\ExceptionThrow\obj\Debug\ExceptionThrow.pdb

@@ -1,0 +1,14 @@
+C:\Users\New Laptop\source\repos\Chapter 17\BuildTree\BuildTree\bin\Debug\netcoreapp2.0\BuildTree.deps.json
+C:\Users\New Laptop\source\repos\Chapter 17\BuildTree\BuildTree\bin\Debug\netcoreapp2.0\BuildTree.runtimeconfig.json
+C:\Users\New Laptop\source\repos\Chapter 17\BuildTree\BuildTree\bin\Debug\netcoreapp2.0\BuildTree.runtimeconfig.dev.json
+C:\Users\New Laptop\source\repos\Chapter 17\BuildTree\BuildTree\bin\Debug\netcoreapp2.0\BuildTree.dll
+C:\Users\New Laptop\source\repos\Chapter 17\BuildTree\BuildTree\bin\Debug\netcoreapp2.0\BuildTree.pdb
+C:\Users\New Laptop\source\repos\Chapter 17\BuildTree\BuildTree\bin\Debug\netcoreapp2.0\BinaryTree.dll
+C:\Users\New Laptop\source\repos\Chapter 17\BuildTree\BuildTree\bin\Debug\netcoreapp2.0\BinaryTree.pdb
+C:\Users\New Laptop\source\repos\Chapter 17\BuildTree\BuildTree\obj\Debug\netcoreapp2.0\BuildTree.csprojResolveAssemblyReference.cache
+C:\Users\New Laptop\source\repos\Chapter 17\BuildTree\BuildTree\obj\Debug\netcoreapp2.0\BuildTree.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\Chapter 17\BuildTree\BuildTree\obj\Debug\netcoreapp2.0\BuildTree.AssemblyInfoInputs.cache
+C:\Users\New Laptop\source\repos\Chapter 17\BuildTree\BuildTree\obj\Debug\netcoreapp2.0\BuildTree.AssemblyInfo.cs
+C:\Users\New Laptop\source\repos\Chapter 17\BuildTree\BuildTree\obj\Debug\netcoreapp2.0\BuildTree.csproj.CopyComplete
+C:\Users\New Laptop\source\repos\Chapter 17\BuildTree\BuildTree\obj\Debug\netcoreapp2.0\BuildTree.dll
+C:\Users\New Laptop\source\repos\Chapter 17\BuildTree\BuildTree\obj\Debug\netcoreapp2.0\BuildTree.pdb

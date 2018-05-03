@@ -1,0 +1,11 @@
+C:\Users\New Laptop\source\repos\LambdaExpression\ExpressionTree\bin\Debug\netcoreapp2.0\ExpressionTree.deps.json
+C:\Users\New Laptop\source\repos\LambdaExpression\ExpressionTree\bin\Debug\netcoreapp2.0\ExpressionTree.runtimeconfig.json
+C:\Users\New Laptop\source\repos\LambdaExpression\ExpressionTree\bin\Debug\netcoreapp2.0\ExpressionTree.runtimeconfig.dev.json
+C:\Users\New Laptop\source\repos\LambdaExpression\ExpressionTree\bin\Debug\netcoreapp2.0\ExpressionTree.dll
+C:\Users\New Laptop\source\repos\LambdaExpression\ExpressionTree\bin\Debug\netcoreapp2.0\ExpressionTree.pdb
+C:\Users\New Laptop\source\repos\LambdaExpression\ExpressionTree\obj\Debug\netcoreapp2.0\ExpressionTree.csprojResolveAssemblyReference.cache
+C:\Users\New Laptop\source\repos\LambdaExpression\ExpressionTree\obj\Debug\netcoreapp2.0\ExpressionTree.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\LambdaExpression\ExpressionTree\obj\Debug\netcoreapp2.0\ExpressionTree.AssemblyInfoInputs.cache
+C:\Users\New Laptop\source\repos\LambdaExpression\ExpressionTree\obj\Debug\netcoreapp2.0\ExpressionTree.AssemblyInfo.cs
+C:\Users\New Laptop\source\repos\LambdaExpression\ExpressionTree\obj\Debug\netcoreapp2.0\ExpressionTree.dll
+C:\Users\New Laptop\source\repos\LambdaExpression\ExpressionTree\obj\Debug\netcoreapp2.0\ExpressionTree.pdb

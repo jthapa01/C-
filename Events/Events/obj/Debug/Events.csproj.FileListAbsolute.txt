@@ -1,0 +1,9 @@
+c:\users\zfore\documents\visual studio 2017\Projects\Events\Events\bin\Debug\Events.exe.config
+c:\users\zfore\documents\visual studio 2017\Projects\Events\Events\bin\Debug\Events.exe
+c:\users\zfore\documents\visual studio 2017\Projects\Events\Events\bin\Debug\Events.pdb
+c:\users\zfore\documents\visual studio 2017\Projects\Events\Events\obj\Debug\Events.csprojResolveAssemblyReference.cache
+c:\users\zfore\documents\visual studio 2017\Projects\Events\Events\obj\Debug\Events.Form1.resources
+c:\users\zfore\documents\visual studio 2017\Projects\Events\Events\obj\Debug\Events.Properties.Resources.resources
+c:\users\zfore\documents\visual studio 2017\Projects\Events\Events\obj\Debug\Events.csproj.GenerateResource.Cache
+c:\users\zfore\documents\visual studio 2017\Projects\Events\Events\obj\Debug\Events.exe
+c:\users\zfore\documents\visual studio 2017\Projects\Events\Events\obj\Debug\Events.pdb

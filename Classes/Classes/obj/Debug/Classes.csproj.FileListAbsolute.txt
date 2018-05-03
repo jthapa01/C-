@@ -1,0 +1,9 @@
+c:\users\zfore\documents\visual studio 2017\Projects\Classes\Classes\bin\Debug\Classes.exe.config
+c:\users\zfore\documents\visual studio 2017\Projects\Classes\Classes\bin\Debug\Classes.exe
+c:\users\zfore\documents\visual studio 2017\Projects\Classes\Classes\bin\Debug\Classes.pdb
+c:\users\zfore\documents\visual studio 2017\Projects\Classes\Classes\obj\Debug\Classes.Form1.resources
+c:\users\zfore\documents\visual studio 2017\Projects\Classes\Classes\obj\Debug\Classes.Properties.Resources.resources
+c:\users\zfore\documents\visual studio 2017\Projects\Classes\Classes\obj\Debug\Classes.csproj.GenerateResource.Cache
+c:\users\zfore\documents\visual studio 2017\Projects\Classes\Classes\obj\Debug\Classes.exe
+c:\users\zfore\documents\visual studio 2017\Projects\Classes\Classes\obj\Debug\Classes.pdb
+c:\users\zfore\documents\visual studio 2017\Projects\Classes\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache

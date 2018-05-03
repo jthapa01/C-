@@ -1,0 +1,11 @@
+C:\Users\New Laptop\source\repos\Dictionary\HashTables\bin\Debug\netcoreapp2.0\HashTables.deps.json
+C:\Users\New Laptop\source\repos\Dictionary\HashTables\bin\Debug\netcoreapp2.0\HashTables.runtimeconfig.json
+C:\Users\New Laptop\source\repos\Dictionary\HashTables\bin\Debug\netcoreapp2.0\HashTables.runtimeconfig.dev.json
+C:\Users\New Laptop\source\repos\Dictionary\HashTables\bin\Debug\netcoreapp2.0\HashTables.dll
+C:\Users\New Laptop\source\repos\Dictionary\HashTables\bin\Debug\netcoreapp2.0\HashTables.pdb
+C:\Users\New Laptop\source\repos\Dictionary\HashTables\obj\Debug\netcoreapp2.0\HashTables.csprojResolveAssemblyReference.cache
+C:\Users\New Laptop\source\repos\Dictionary\HashTables\obj\Debug\netcoreapp2.0\HashTables.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\Dictionary\HashTables\obj\Debug\netcoreapp2.0\HashTables.AssemblyInfoInputs.cache
+C:\Users\New Laptop\source\repos\Dictionary\HashTables\obj\Debug\netcoreapp2.0\HashTables.AssemblyInfo.cs
+C:\Users\New Laptop\source\repos\Dictionary\HashTables\obj\Debug\netcoreapp2.0\HashTables.dll
+C:\Users\New Laptop\source\repos\Dictionary\HashTables\obj\Debug\netcoreapp2.0\HashTables.pdb

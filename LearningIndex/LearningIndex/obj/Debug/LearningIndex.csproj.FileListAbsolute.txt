@@ -1,0 +1,8 @@
+c:\users\zfore\documents\visual studio 2017\Projects\LearningIndex\LearningIndex\bin\Debug\LearningIndex.exe.config
+c:\users\zfore\documents\visual studio 2017\Projects\LearningIndex\LearningIndex\bin\Debug\LearningIndex.exe
+c:\users\zfore\documents\visual studio 2017\Projects\LearningIndex\LearningIndex\bin\Debug\LearningIndex.pdb
+c:\users\zfore\documents\visual studio 2017\Projects\LearningIndex\LearningIndex\obj\Debug\LearningIndex.Form1.resources
+c:\users\zfore\documents\visual studio 2017\Projects\LearningIndex\LearningIndex\obj\Debug\LearningIndex.Properties.Resources.resources
+c:\users\zfore\documents\visual studio 2017\Projects\LearningIndex\LearningIndex\obj\Debug\LearningIndex.csproj.GenerateResource.Cache
+c:\users\zfore\documents\visual studio 2017\Projects\LearningIndex\LearningIndex\obj\Debug\LearningIndex.exe
+c:\users\zfore\documents\visual studio 2017\Projects\LearningIndex\LearningIndex\obj\Debug\LearningIndex.pdb

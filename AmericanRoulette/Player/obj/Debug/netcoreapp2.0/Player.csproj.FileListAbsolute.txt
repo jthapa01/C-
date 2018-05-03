@@ -1,0 +1,4 @@
+C:\Users\New Laptop\source\repos\AmericanRoulette\Player\obj\Debug\netcoreapp2.0\Player.csprojResolveAssemblyReference.cache
+C:\Users\New Laptop\source\repos\AmericanRoulette\Player\obj\Debug\netcoreapp2.0\Player.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\AmericanRoulette\Player\obj\Debug\netcoreapp2.0\Player.AssemblyInfoInputs.cache
+C:\Users\New Laptop\source\repos\AmericanRoulette\Player\obj\Debug\netcoreapp2.0\Player.AssemblyInfo.cs

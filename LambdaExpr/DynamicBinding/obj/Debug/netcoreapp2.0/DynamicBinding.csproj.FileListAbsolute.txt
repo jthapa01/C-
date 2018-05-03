@@ -1,0 +1,11 @@
+C:\Users\New Laptop\source\repos\LambdaExpr\DynamicBinding\bin\Debug\netcoreapp2.0\DynamicBinding.deps.json
+C:\Users\New Laptop\source\repos\LambdaExpr\DynamicBinding\bin\Debug\netcoreapp2.0\DynamicBinding.runtimeconfig.json
+C:\Users\New Laptop\source\repos\LambdaExpr\DynamicBinding\bin\Debug\netcoreapp2.0\DynamicBinding.runtimeconfig.dev.json
+C:\Users\New Laptop\source\repos\LambdaExpr\DynamicBinding\bin\Debug\netcoreapp2.0\DynamicBinding.dll
+C:\Users\New Laptop\source\repos\LambdaExpr\DynamicBinding\bin\Debug\netcoreapp2.0\DynamicBinding.pdb
+C:\Users\New Laptop\source\repos\LambdaExpr\DynamicBinding\obj\Debug\netcoreapp2.0\DynamicBinding.csprojResolveAssemblyReference.cache
+C:\Users\New Laptop\source\repos\LambdaExpr\DynamicBinding\obj\Debug\netcoreapp2.0\DynamicBinding.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\LambdaExpr\DynamicBinding\obj\Debug\netcoreapp2.0\DynamicBinding.AssemblyInfoInputs.cache
+C:\Users\New Laptop\source\repos\LambdaExpr\DynamicBinding\obj\Debug\netcoreapp2.0\DynamicBinding.AssemblyInfo.cs
+C:\Users\New Laptop\source\repos\LambdaExpr\DynamicBinding\obj\Debug\netcoreapp2.0\DynamicBinding.dll
+C:\Users\New Laptop\source\repos\LambdaExpr\DynamicBinding\obj\Debug\netcoreapp2.0\DynamicBinding.pdb
